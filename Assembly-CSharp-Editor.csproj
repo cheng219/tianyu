@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{DB0005D0-E46F-236E-2F57-76542FED5F47}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_3_5;UNITY_5_3;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;HOTFIX_ENABLE;ENABLE_DUCK_TYPING</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>D:/Unity3d535/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>D:/Unity3d535/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\Editor\MenuCtrl2.cs" />
+     <Compile Include="Assets\Scripts\Editor\UItextTool.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Examples\Scripts\InventorySystem\Editor\InvDatabaseInspector.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Examples\Scripts\InventorySystem\Editor\InvFindItem.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\ActiveAnimationEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\BMFontReader.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\ComponentSelector.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\EventDelegateDrawer.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\EventDelegateEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\FreeType.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\NGUIContextMenu.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\NGUIEditorExtensions.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\NGUIEditorTools.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\NGUIHandles.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\NGUIHelp.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\NGUIJson.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\NGUIMenu.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\NGUISelectionTools.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\NGUISettings.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\NGUISnap.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\NGUITransformInspector.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\PropertyBindingEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\PropertyReferenceDrawer.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\SpriteSelector.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\TweenAlphaEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\TweenColorEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\TweenFOVEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\TweenHeightEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\TweenOrthoSizeEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\TweenPositionEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\TweenRotationEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\TweenScaleEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\TweenTransformEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\TweenVolumeEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\TweenWidthEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\TypewriterEffectEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UI2DSpriteEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIAnchorEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIAtlasInspector.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIAtlasMaker.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIBasicSpriteEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIButtonColorEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIButtonEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIButtonKeysEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIButtonMessageEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UICameraEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UICameraTool.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIColorPickerEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UICreateNewUIWizard.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UICreateWidgetWizard.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIDragObjectEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIDrawCallInspector.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIDrawCallViewer.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIEventTriggerEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIFontInspector.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIFontMaker.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIForwardEventsEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIGridEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIImageButtonInspector.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIInputEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIKeyNavigationEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UILabelInspector.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UILocalizeEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIPanelInspector.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIPanelTool.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIPlayAnimationEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIPlayTweenEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIPopupListInspector.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIPrefabTool.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIProgressBarEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIRectEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIRootEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIScrollBarEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIScrollViewEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UISliderEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UISnapshotPointEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UISpriteAnimationInspector.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UISpriteInspector.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIStretchEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UITableEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UITextureInspector.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UITexturePacker.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIToggleInspector.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UITweenerEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIWidgetContainerEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIWidgetInspector.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Editor\UIWrapContentEditor.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Ex\Editor\NGUIMenuEx.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Ex\Editor\NGUISettingsEx.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Ex\Editor\UIPanelExInspector.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Ex\Editor\UISpriteExInspector.cs" />
+     <Compile Include="Assets\Scripts\NGUI\Scripts\Ex\Editor\UITextureAnimationInspector.cs" />
+     <Compile Include="Assets\Shares\Foliage\Scripts [free Addons]\Geometry Brush Package AFS v1.1\Geometry Brush\Editor\GBSettingsEditor.cs" />
+     <Compile Include="Assets\Shares\Foliage\Scripts [free Addons]\Geometry Brush Package AFS v1.1\Geometry Brush\Editor\GBWindow.cs" />
+     <Compile Include="Assets\Shares\Foliage\Scripts\Combine Cildren AFS v4\Editor\CombineChildrenAFSEditor.cs" />
+     <Compile Include="Assets\Shares\Foliage\Scripts\Foliage Tool AFS v4\Editor\AfsFoliageToolEditor.cs" />
+     <Compile Include="Assets\Shares\Foliage\Scripts\Reposition Trees AFS v4\Editor\RepositionTreesAFSEditor.cs" />
+     <Compile Include="Assets\Shares\Foliage\Scripts\Setup Advanced Foliage Shader v4\Editor\SetupAdvancedFoliageShaderEditor.cs" />
+     <Compile Include="Assets\Shares\Foliage\Scripts\Touch Bending AFS v4\Editor\touchBendingCollisionGSEditor.cs" />
+     <Compile Include="Assets\Shares\PigeonCoopToolkit\Effects\Trails\Editor\SmokePlumeEditor.cs" />
+     <Compile Include="Assets\Shares\PigeonCoopToolkit\Effects\Trails\Editor\SmokeTrailEditor.cs" />
+     <Compile Include="Assets\Shares\PigeonCoopToolkit\Effects\Trails\Editor\TrailEditor.cs" />
+     <Compile Include="Assets\Shares\PigeonCoopToolkit\Effects\Trails\Editor\TrailEditor_Base.cs" />
+     <Compile Include="Assets\Shares\PigeonCoopToolkit\Effects\Trails\Editor\TrailPreviewUtillity.cs" />
+     <Compile Include="Assets\Shares\PigeonCoopToolkit\Utillities\Editor\RangePropertyDrawer.cs" />
+     <Compile Include="Assets\Shares\Volume Fog\VFog\Editor\VolumeFogEditor.cs" />
+     <Compile Include="Assets\XLua\Src\Editor\Generator.cs" />
+     <Compile Include="Assets\XLua\Src\Editor\Hotfix.cs" />
+     <Compile Include="Assets\XLua\Src\Editor\LinkXmlGen\LinkXmlGen.cs" />
+     <Compile Include="Assets\XLua\Src\Editor\TemplateRef.cs" />
+     <None Include="Assets\Scripts\NGUI\Examples\Shaders\Unlit - Depth Cutout.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-weapon.shader" />
+     <None Include="Assets\Shares\IGSoft_Resources\EffectShader\FXMaker_Mask Alpha Blended.shader" />
+     <None Include="Assets\Scripts\NGUI\ReadMe - 3.8.2.txt" />
+     <None Include="Assets\Shares\IGSoft_Resources\EffectShader\FXMaker_Mask Cutout.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Transparent Masked 1.shader" />
+     <None Include="Assets\Shares\Shader\Unlit\Unlit-AlphaTest_Characters_L.shader" />
+     <None Include="Assets\Plugins\Android\res\values\strings.xml" />
+     <None Include="Assets\Shares\Environment\Water\Water\Water4\Shaders\FXWater4Simple.shader" />
+     <None Include="Assets\XLua\Gen\link.xml" />
+     <None Include="Assets\Shares\Shader\Mobile-Vertexlit-Direactional-Custom.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-particles-additive-smoothed.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Text 2.shader" />
+     <None Include="Assets\Shares\PigeonCoopToolkit\__SharedDemoAssets\_Shaders\Unlit Transparent Color.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Transparent Masked 2.shader" />
+     <None Include="Assets\Resources\NGUI\Font\sl2Font\Font_txt.txt" />
+     <None Include="Assets\Shares\Shader\T4MShader\3TexturesBumpDiffuseFastest.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\AfsFoliageShader Touchbending v4.shader" />
+     <None Include="Assets\Shares\Environment\Water\Water\Water4\Shaders\FXWater4Advanced.shader" />
+     <None Include="Assets\Plugins\Android\assets\DGSDK\SourceInfo.xml" />
+     <None Include="Assets\Shares\Shader\T4MShader\4TexturesDiffuseFastest.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Characters\MADFINGER-per-vertex-sphere-AO.shader" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\Shares\IGSoft_Resources\EffectShader\FXMaker_Mask Additive Tint.shader" />
+     <None Include="Assets\XLua\Examples\06_Coroutine\Resources\cs_coroutine.lua.txt" />
+     <None Include="Assets\Shares\Shader\T4MShader\3TexturesBumpDiffuseFast.shader" />
+     <None Include="Assets\Shares\SG\Shaders\config.cginc" />
+     <None Include="Assets\Shares\Foliage\Shaders\Includes\AfsPBSLighting.cginc" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-Lightmap-Unlit-Wind.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-Unlit-Scroll2Layers-Add-Sine.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Text 1.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Premultiplied Colored (TextureClip).shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed) (TextureClip).shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-blood-fx2.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-Unlit-Scroll2Layers-Mul-skybox.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\Includes\AfsBuiltin3xTreeLibrary.cginc" />
+     <None Include="Assets\Shares\Foliage\Shaders\AfsTreeCreatorBarkDeferred.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Transparent Colored 2.shader" />
+     <None Include="Assets\XLua\Src\Editor\LinkXmlGen\LinkXmlGen.tpl.txt" />
+     <None Include="Assets\Scripts\NGUI\Resources\ShadersAdd\Unlit - Transparent Colored Gray 1.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-fake-env.shader" />
+     <None Include="Assets\Shares\Shader\Mobile\(ICE)ParticleCook-Transparent-AlphaBlend-Diffuse-Z.shader" />
+     <None Include="Assets\Shares\Shader\Unlit\Unlit-AlphaTest_Monster.shader" />
+     <None Include="Assets\Shares\Shader\T4MShader\2TexturesDiffuseFast.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\ShadersAdd\Unlit - Transparent Colored Gray.shader" />
+     <None Include="Assets\Shares\SG\Shaders\gpu_noise_lib.cginc" />
+     <None Include="Assets\XLua\Examples\02_U3DScripting\LuaTestScript.lua.txt" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-blinking-god-rays-slope-fadeout.shader" />
+     <None Include="Assets\Scripts\NGUI\Examples\Shaders\Unlit - Masked Colored.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-animtexture.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\Includes\AfsWavingGrass.cginc" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 3.shader" />
+     <None Include="Assets\Shares\Shader\MogoSkybox.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-VirtualVertexGlossy-Add-alphakeyed.shader" />
+     <None Include="Assets\Shares\Shader\T4MShader\3TexturesDiffuseFastSimple.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-emissive.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\AfsFoliageShader Raindrops v4.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Characters\Mobile-TexPseudoBRDF-WrapAround-customgloss.shader" />
+     <None Include="Assets\Shares\SG\Shaders\globals.cginc" />
+     <None Include="Assets\Shares\Shader\Unlit\Transparent Cutout\Unlit-AlphaTest_CubeRim.shader" />
+     <None Include="Assets\Shares\Shader\Particle AddMultiply Custom.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-bullet-trail-fx.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-simple-diff.shader" />
+     <None Include="Assets\Shares\Shader\Particle AdditiveCustom.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Characters\Mobile-TexPseudoBRDF-WrapAround-FX.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\ShadersAdd\Unlit - Transparent Colored Gray (TextureClip).shader" />
+     <None Include="Assets\Shares\Shader\T4MShader\3TexturesBumpDiffuseSimple.shader" />
+     <None Include="Assets\Shares\Core\Shader\Illumin-diff-ATest-Blight.shader" />
+     <None Include="Assets\Shares\Shader\Mobile\Mobile-Particle-Alpha_ColorDouble_CullBack.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Transparent Colored (TextureClip).shader" />
+     <None Include="Assets\Shares\Volume Fog\VFog\Shader\volume_fog.shader" />
+     <None Include="Assets\Shares\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-Scroll2Layers-Add-Additive.shader" />
+     <None Include="Assets\Shares\Core\Shader\Illumin-Diff-BLight.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-Unlit-Scroll2Layers-Mul-Sine.shader" />
+     <None Include="Assets\XLua\Tutorial\LoadLuaScript\ByFile\Resources\byfile.lua.txt" />
+     <None Include="Assets\Shares\Foliage\Shaders\AfsSimpleTree v4.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\AfsTreeCreatorLeaves.shader" />
+     <None Include="Assets\Shares\Shader\Particle VertexLit Blended Custom.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\AfsTreeCreatorBarkDeferredOptimized.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-blinking-god-rays.shader" />
+     <None Include="Assets\Shares\Shader\Unlit\ShaderBase\XRayBase.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\Hidden Shaders\AfsFoliageShader Terrain v4.shader" />
+     <None Include="Assets\Shares\Shader\Unlit\Transparent Cutout\Unlit-AlphaTest_Rim.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Characters\Mobile-TexPseudoBRDF-WrapAround-cloak.shader" />
+     <None Include="Assets\Shares\Core\Shader\ModelRTT.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-skybox2.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-blood-fx-blended.shader" />
+     <None Include="Assets\Shares\Core\Shader\Illumin-DiffuseAndAlphaTest.shader" />
+     <None Include="Assets\Shares\Shader\T4MShader\4TexturesDiffuseSimple.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\Includes\AfsFoliageBending.cginc" />
+     <None Include="Assets\Shares\Shader\Mobile-Particle-Add-Custom.shader" />
+     <None Include="Assets\Shares\IGSoft_Resources\EffectShader\FXMaker_Mask Additive.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Transparent Masked 3.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Particle Alpha Blend.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Particle Alpha Blend-Z.shader" />
+     <None Include="Assets\Shares\Shader\Unlit\Unlit-AlphaTest_GrayDetail.shader" />
+     <None Include="Assets\Shares\Shader\Particle Premultiply Blend Custom.shader" />
+     <None Include="Assets\XLua\Examples\06_Coroutine\Resources\coruntine_test.lua.txt" />
+     <None Include="Assets\Shares\Shader\FXMaker_Mask Additive Custom.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Transparent Colored 1.shader" />
+     <None Include="Assets\XLua\Src\Editor\Template\LuaWrapPusher.tpl.txt" />
+     <None Include="Assets\XLua\Src\Editor\Template\LuaDelegateBridge.tpl.txt" />
+     <None Include="Assets\Shares\Foliage\Shaders\Includes\AfsLambertLighting.cginc" />
+     <None Include="Assets\Shares\Core\Shader\PlayerModelRTT.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Transparent Colored 3.shader" />
+     <None Include="Assets\Shares\MobileWater\Shaders\MobileWater.shader" />
+     <None Include="Assets\Shares\Core\Shader\Illumin-diff-2P-ATest-Blight.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\ShadersAdd\Unlit - Transparent Colored Gray 3.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-Lightmap-Unlit-VirtualVertexGlossy-Add.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 2.shader" />
+     <None Include="Assets\Shares\SG\Shaders\TransparentVertexColor.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-billboarded-blinking-god-rays.shader" />
+     <None Include="Assets\XLua\Resources\xlua\util.lua.txt" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-blinking-emissive.shader" />
+     <None Include="Assets\Shares\Shader\Mobile\Mobile-Particle-UVAnimation.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\ShadersAdd\Unlit - Transparent Colored Gray 2.shader" />
+     <None Include="Assets\Shares\MobileWater\Shaders\MobileWaterSpume.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Text 3.shader" />
+     <None Include="Assets\Shares\Core\Shader\NPCModelRTT.shader" />
+     <None Include="Assets\Shares\Shader\Mobile\Mobile-BumpSpec_inlineLightDir.shader" />
+     <None Include="Assets\Shares\Shader\XRay.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Transparent Packed 2.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-blood-fx-nonblended.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Particles Additive Culled.shader" />
+     <None Include="Assets\Shares\Shader\T4MShader\3TexturesDiffuseFastest.shader" />
+     <None Include="Assets\Shares\Shader\Unlit\Unlit-AlphaTest_Flow_H.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-customlightmap-unlit-spec-cube-fakebump.shader" />
+     <None Include="Assets\Shares\Shader\Mobile-Particle-Alpha-VertexLit-Custom.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Transparent Packed 1.shader" />
+     <None Include="Assets\Shares\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
+     <None Include="Assets\XLua\Examples\03_UIEvent\ButtonInteraction.lua.txt" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 1.shader" />
+     <None Include="Assets\Shares\Shader\Mobile\Mobile-Particle-Add_ColorDouble.shader" />
+     <None Include="Assets\Shares\Shader\Mobile\Mobile-Particle-Alpha_ColorDouble.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Premultiplied Colored.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-lightprobe-VirtualVertexGlossy-Add.shader" />
+     <None Include="Assets\Shares\Shader\T4MShader\2TexturesDiffuseFastest.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-skybox.shader" />
+     <None Include="Assets\Shares\Shader\Mobile\Mobile-Particle-Add_ColorDouble_CullBack.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-Scroll2Layers-Mul-Additive.shader" />
+     <None Include="Assets\Shares\Shader\Mobile\Mobile-Particle-Add_UV2Layers.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\Camera-DepthNormalTexture.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-Lightmap-Unlit-emis.shader" />
+     <None Include="Assets\Shares\Shader\Mobile\Mobile-Particle-Alpha_Color.shader" />
+     <None Include="Assets\XLua\Src\Editor\Template\TemplateCommon.lua.txt" />
+     <None Include="Assets\XLua\Src\Editor\Template\LuaEnumWrap.tpl.txt" />
+     <None Include="Assets\Scripts\NGUI\Resources\ShadersAdd\Unlit - Transparent Colored Gray (Packed) (TextureClip).shader" />
+     <None Include="Assets\Shares\Shader\Unlit\Transparent Cutout\Unlit-AlphaTest_CubeReflective.shader" />
+     <None Include="Assets\Shares\Shader\MogoTransparentDiffuse.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\Hidden Shaders\AfsGrassShader Terrain v4.shader" />
+     <None Include="Assets\Shares\Core\Shader\Illumin-DiffuseAndAlpha.shader" />
+     <None Include="Assets\Shares\Shader\Unlit\Unlit-AlphaTest_Characters_H.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\AfsGrassShader v4 Unlit.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Text.shader" />
+     <None Include="Assets\Shares\PigeonCoopToolkit\__SharedDemoAssets\Sword\sword License.txt" />
+     <None Include="Assets\Shares\Shader\FXMaker_Mask Alpha Blended Tint Custom.shader" />
+     <None Include="Assets\Shares\Shader\FXWaterPro.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\Includes\AfsBillboardShadow.cginc" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Transparent Packed.shader" />
+     <None Include="Assets\XLua\Resources\perf\profiler.lua.txt" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Transparent Packed 3.shader" />
+     <None Include="Assets\Shares\Shader\Unlit\Unlit-AlphaTest_Cube.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Effects\mf-additive-fadeout.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\AfsTreeCreatorBarkRendertex.shader" />
+     <None Include="Assets\Shares\Shader\Mobile\Projector5.0.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-water.shader" />
+     <None Include="Assets\Shares\Shader\Unlit\ShaderBase\ShadowCasterBase.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\AfsFoliageShader Deferred SingleSided v4.shader" />
+     <None Include="Assets\Shares\Shader\XRay2.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\Hidden Shaders\AfsBillboardTree v4.shader" />
+     <None Include="Assets\Shares\Core\Shader\Illumin-diff-2P-Blight.shader" />
+     <None Include="Assets\Shares\Shader\xf_heat_distortion.shader" />
+     <None Include="Assets\XLua\Src\Editor\Template\LuaDelegateWrap.tpl.txt" />
+     <None Include="Assets\Shares\Shader\AdditiveProjector.shader" />
+     <None Include="Assets\Shares\Shader\Unlit\ShaderBase\Reflect-BumpNolightMask.shader" />
+     <None Include="Assets\Shares\PigeonCoopToolkit\__SharedDemoAssets\a-104 Rifle\a-104 Rifle License.txt" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-god-rays.shader" />
+     <None Include="Assets\Shares\PigeonCoopToolkit\__SharedDemoAssets\_Shaders\DiffuseColorMask.shader" />
+     <None Include="Assets\Shares\Core\Shader\xf_heat_distortion.shader" />
+     <None Include="Assets\Shares\Shader\Unlit\Unlit-AlphaTest_Characters_M.shader" />
+     <None Include="Assets\Shares\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\Includes\AfsBlinnPhongLightingFull.cginc" />
+     <None Include="Assets\Shares\Shader\Mobile\Mobile-Particle-Add_Color.shader" />
+     <None Include="Assets\Shares\Shader\T4MShader\3TexturesDiffuseFast.shader" />
+     <None Include="Assets\Scripts\NGUI\Examples\Shaders\Unlit - Additive Colored.shader" />
+     <None Include="Assets\Shares\Shader\RimLight.shader" />
+     <None Include="Assets\XLua\Resources\perf\memory.lua.txt" />
+     <None Include="Assets\Resources\NGUI\Font\sl2Font\MSYH_0.fnt" />
+     <None Include="Assets\Shares\Foliage\Shaders\AfsTreeCreatorLeavesOptimized.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Transparent Masked.shader" />
+     <None Include="Assets\Shares\Shader\Particle Alpha Blend Custom.shader" />
+     <None Include="Assets\Scripts\NGUI\Examples\Shaders\Refractive.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-lightmap-unlit-spec-cube.shader" />
+     <None Include="Assets\Shares\SG\Shaders\fake_alpha_cutoff.shader" />
+     <None Include="Assets\Shares\Shader\Particle AddSmooth Custom.shader" />
+     <None Include="Assets\Shares\Shader\Mobile\Mobile-Particle-2Flow-blend.shader" />
+     <None Include="Assets\Scripts\NGUI\Resources\Shaders\Unlit - Text (TextureClip).shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\Includes\AfsBlinnPhongLighting.cginc" />
+     <None Include="Assets\XLua\Src\Editor\Template\LuaRegister.tpl.txt" />
+     <None Include="Assets\Scripts\NGUI\Examples\Shaders\Unlit - Depth.shader" />
+     <None Include="Assets\Shares\Shader\FXMaker_Mask Additive Tint Custom.shader" />
+     <None Include="Assets\Shares\Shader\T4MShader\2TexturesDiffuseSimple.shader" />
+     <None Include="Assets\Shares\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
+     <None Include="Assets\Shares\IGSoft_Resources\EffectShader\FXMaker_Mask Alpha Blended Tint.shader" />
+     <None Include="Assets\XLua\Src\Editor\Template\LuaInterfaceBridge.tpl.txt" />
+     <None Include="Assets\Resources\Texture\Mingganzi.txt" />
+     <None Include="Assets\XLua\Src\Editor\Template\LuaClassWrap.tpl.txt" />
+     <None Include="Assets\Shares\Environment\Water\Water\Water4\Shaders\WaterInclude.cginc" />
+     <None Include="Assets\Shares\Foliage\Shaders\AfsTreeCreatorBarkOptimized.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\AfsTreeCreatorLeavesRendertex.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\AfsFoliageShader v4.shader" />
+     <None Include="Assets\Shares\Shader\T4MShader\4TexturesDiffuseFast.shader" />
+     <None Include="Assets\Shares\Shader\GrayscaleEffect.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\AfsGrassShader v4.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-weapon-fx.shader" />
+     <None Include="Assets\XLua\CHANGELOG.txt" />
+     <None Include="Assets\Shares\Shader\Unlit\Transparent Cutout\Unlit-AlphaTest_OriginCube.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-water2.shader" />
+     <None Include="Assets\XLua\Resources\tdr\tdr.lua.txt" />
+     <None Include="Assets\Shares\Foliage\Shaders\AfsTreeCreatorBark.shader" />
+     <None Include="Assets\Scripts\NGUI\Examples\Resources\Localization.txt" />
+     <None Include="Assets\Shares\SG\Shaders\Particle Alpha Blend background.shader" />
+     <None Include="Assets\XLua\Src\Editor\Template\PackUnpack.tpl.txt" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-billboarded-blinking-god-rays-alphablended.shader" />
+     <None Include="Assets\Shares\SG\Shaders\TextureSimple.shader" />
+     <None Include="Assets\Shares\SG\Shaders\Environment\MADFINGER-lightprobe-VertexGlossy-Add.shader" />
+     <None Include="Assets\Shares\Foliage\Shaders\AfsFoliageShader Deferred v4.shader" />
+     <None Include="Assets\Shares\Shader\Unlit-Normal-Custom.shader" />
+ <Reference Include="Assembly-UnityScript">
+ <HintPath>E:/unity3dWork/base/Demo/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Advertisements">
+ <HintPath>D:/Unity3d535/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
+ </Reference>
+ <Reference Include="nunit.framework">
+ <HintPath>D:/Unity3d535/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.EditorTestsRunner">
+ <HintPath>D:/Unity3d535/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>D:/Unity3d535/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>D:/Unity3d535/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>D:/Unity3d535/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Networking">
+ <HintPath>D:/Unity3d535/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.TreeEditor">
+ <HintPath>D:/Unity3d535/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="Ionic.Zip">
+ <HintPath>E:/unity3dWork/base/Demo/Assets/Plugins/Library/Ionic.Zip.dll</HintPath>
+ </Reference>
+ <Reference Include="LitJson">
+ <HintPath>E:/unity3dWork/base/Demo/Assets/Plugins/Library/LitJson.dll</HintPath>
+ </Reference>
+ <Reference Include="Mono.Cecil">
+ <HintPath>E:/unity3dWork/base/Demo/Assets/Plugins/Library/Mono.Cecil.dll</HintPath>
+ </Reference>
+ <Reference Include="Mono.Cecil.Mdb">
+ <HintPath>E:/unity3dWork/base/Demo/Assets/Plugins/Library/Mono.Cecil.Mdb.dll</HintPath>
+ </Reference>
+ <Reference Include="Mono.Cecil.Pdb">
+ <HintPath>E:/unity3dWork/base/Demo/Assets/Plugins/Library/Mono.Cecil.Pdb.dll</HintPath>
+ </Reference>
+ <Reference Include="ICSharpCode.SharpZipLib">
+ <HintPath>E:/unity3dWork/base/Demo/Assets/Plugins/Library/X64/ICSharpCode.SharpZipLib.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Graphs">
+ <HintPath>D:/Unity3d535/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Android.Extensions">
+ <HintPath>D:/Unity3d535/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp.csproj">
+      <Project>{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
