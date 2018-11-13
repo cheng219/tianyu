@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 8fcc0135207f8714e8abf0b45fabfdd5
+timeCreated: 1446440856
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _MatCap: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4337 @@
+﻿QiZhuang,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,套装属性
+   ,Label,[u]获得骑装
+   ,Label,[u]规则说明
+   ,Label,1
+   ,UILabelOpenUI,[u]人参果宴
+   ,Label,2
+   ,UILabelOpenUI (1),[u]奈何桥获得[/u]
+   ,Label,3
+   ,mode,[u]商城购买
+   ,Label,4
+   ,mode,[u]商城购买
+   ,Lev_1,当前白色套装效果（8/8）
+   ,Label,"生命：\n攻击：\n防御：\n命中：\n闪避：\n暴击：\n韧性："
+   ,shengming,800
+   ,gongji,800
+   ,fangyu,800
+   ,mingzhong,800
+   ,shanbi,800
+   ,baoji,800
+   ,renxing,800
+   ,Lev_1,下级绿色套装效果（8/8）
+   ,Label,"生命：\n攻击：\n防御：\n命中：\n闪避：\n暴击：\n韧性："
+   ,shengming,800
+   ,gongji,800
+   ,fangyu,800
+   ,mingzhong,800
+   ,shanbi,800
+   ,baoji,800
+   ,renxing,800
+   ,Label,骑装套装效果
+   ,Lev_1,当前白色套装效果（8/8）
+   ,Label,"生命：\n攻击：\n防御：\n命中：\n闪避：\n暴击：\n韧性："
+   ,shengming,800
+   ,gongji,800
+   ,fangyu,800
+   ,mingzhong,800
+   ,shanbi,800
+   ,baoji,800
+   ,renxing,800
+   ,Label,骑装套装效果
+   ,Label,骑装属性加成
+   ,Label,"生命：\n攻击：\n防御：\n命中：\n闪避：\n暴击：\n韧性："
+   ,shengming,17800
+   ,gongji,17800
+   ,fangyu,17800
+   ,mingzhong,17800
+   ,shanbi,17800
+   ,baoji,17800
+   ,renxing,17800
+   ,Label,骑装提升
+   ,Label,一键升级
+   ,Label,升 级
+   ,Str_label,+6
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,当前属性
+   ,attribute,"攻击：100\n防御：200"
+   ,LEV,等级:
+   ,LEVnum,1
+   ,LEVnum,1
+   ,LEV,等级:
+   ,Label,下级属性
+   ,attribute,"攻击：100\n防御：200"
+   ,Label,进化度
+   ,num,23%
+   ,Label,爆发进化度清空倒计时：
+   ,time,20:20:20
+   ,Label (1),爆发进化度：
+   ,critExp,50%
+   ,Label,消耗材料：
+   ,thing_1,"[u][6ef574][url=2200016]骑装碎片[/url][-][/u] 1[ff0000]/0[-]\n250[ff0000]/0[-]"
+   ,Label,1
+   ,UILabelOpenUI,[u]人参果宴
+   ,Label,2
+   ,UILabelOpenUI (1),[u]奈何桥获得[/u]
+   ,Label,3
+   ,mode,[u]商城购买
+   ,Label,4
+   ,mode,[u]商城购买
+   ,Label,材料不足时自动使用元宝
+   ,Label,提升品质
+   ,Str_label,+6
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,当前属性
+   ,attribute,"攻击：100\n防御：200"
+   ,LEV,等级上限:
+   ,LEVnum,10
+   ,LEVnum,20
+   ,LEV,等级上限:
+   ,Label,下级属性
+   ,attribute,"攻击：100\n防御：200"
+   ,Label,消耗材料：
+   ,thing_1,"[u][6ef574][url=2200016]骑装碎片[/url][-][/u] 1[ff0000]/0[-]\n250[ff0000]/0[-]"
+   ,Label,1
+   ,UILabelOpenUI,[u]夺宝奇兵
+   ,Label,2
+   ,UILabelOpenUI (1),[u]奈何桥获得[/u]
+   ,Label,3
+   ,mode,[u]商城购买
+   ,Label,4
+   ,mode,[u]商城购买
+   ,Label,[u]获得材料
+   ,Label,[u]规则说明
+   ,Name (1),New Label
+   ,Occupation,点击放入
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,选择骑装
+Transaction,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,已确定交易
+   ,Label,已确定交易
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,小贴士：请将道具放入交易区内进行交换
+   ,Label,锁定
+   ,Label,交易
+Orange_Refining,Label,[u]获得材料
+   ,Label,橙炼
+   ,Label,当前装备
+   ,Str_label,+8
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,下级装备
+   ,Str_label,+8
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,消耗材料：
+   ,NOthing,无符合橙炼条件的装备
+   ,Label,铜钱不足时自动使用元宝
+   ,Label,1
+   ,UILabelOpenUI,[u]挑战boss
+   ,Label,2
+   ,UILabelOpenUI,[u]藏宝库
+   ,des (2),30级及以上的紫色装备才可橙炼
+ApplyListItem,Label,同意
+   ,Label,拒绝
+GuildListItem,Label,申请加入
+   ,Label,无
+Welfare_vip,Label,立即充值
+   ,Label,继续领取
+RankReward,Label,已领取
+   ,Label,领取
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+Item_Wnd,Label1,装备
+   ,Label2,装备
+   ,Label3,装备
+   ,Name,套套宠物蛋
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,等级:
+   ,useLvlLabel,99
+   ,bang,已绑定
+   ,NO_bang,非绑定
+   ,num,200
+   ,name (1),卖出：
+   ,name (1),不可出售
+   ,Label_ex,"获得途径：\n商城购买\n等级奖励"
+   ,Name,套套宠物蛋
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,等级:
+   ,useLvlLabel,99
+   ,bang,已绑定
+   ,NO_bang,非绑定
+   ,Label,获得途径：
+   ,Label,1 [u]商城购买
+   ,Label,2 [u]活动获得
+   ,name,生命：
+   ,num,1500
+   ,Label_ex,"获得途径：\n商城购买\n等级奖励"
+   ,num,200
+   ,name (1),卖出：
+   ,name (1),不可出售
+   ,Name+str_lev,刑天·震天神弓+8
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,等级:
+   ,useLvlLabel,99
+   ,typeLabel,法师
+   ,Label (1),职业：
+   ,Label (2),部位：
+   ,position_type,肩膀
+   ,gs_num,899969
+   ,Label,战力：
+   ,change_gs_num,+899969
+   ,Tag,基础属性
+   ,name,攻击：
+   ,num,478-789
+   ,change_num,+899969
+   ,name,攻击：
+   ,num,478-789
+   ,change_num,-899969
+   ,Tag,洗练属性
+   ,name,攻击：
+   ,num,200
+   ,name,攻击：
+   ,num,200
+   ,name,攻击：
+   ,num,200
+   ,name,攻击：
+   ,num,200
+   ,Tag,镶嵌属性
+   ,name,攻击：
+   ,num,200
+   ,gem_name,三级攻击宝石
+   ,name,攻击：
+   ,num,200
+   ,gem_name,三级攻击宝石
+   ,name,攻击：
+   ,num,200
+   ,gem_name,三级攻击宝石
+   ,name,攻击：
+   ,num,200
+   ,gem_name,三级攻击宝石
+   ,name,攻击：
+   ,num,200
+   ,gem_name,三级攻击宝石
+   ,name,攻击：
+   ,num,200
+   ,gem_name,三级攻击宝石
+   ,name,攻击：
+   ,num,200
+   ,gem_name,三级攻击宝石
+   ,name,攻击：
+   ,num,200
+   ,gem_name,三级攻击宝石
+   ,Tag,套装属性
+   ,taozhuang_name,50级紫色攻击套装
+   ,taozhuang_NUM,（1/6）
+   ,position_1,武器
+   ,position_2,武器
+   ,position_3,武器
+   ,position_4,武器
+   ,position_5,武器
+   ,position_6,武器
+   ,3jian,3件
+   ,att_name,攻击
+   ,att_num,+89
+   ,att_des,（已激活更高级套装）
+   ,6jian,6件
+   ,att_name,增伤
+   ,att_num,+0.98%
+   ,att_des,（已激活更高级套装）
+   ,Label_ex,"[fff143]基础属性[-]\n攻击：487-789     [00ff00]+899969[-]\n攻击：487-789     [00ff00]+899969[-]"
+   ,Label_ex,"[fff143]洗练属性[-]\n攻击：487    攻击：487\n攻击：487    攻击：487"
+   ,Label_ex,"[fff143]洗练属性[-]\n三级攻击宝石    攻击：487\n三级攻击宝石    攻击：487\n三级攻击宝石    攻击：487\n三级攻击宝石    攻击：487\n三级攻击宝石    攻击：487\n三级攻击宝石    攻击：487\n三级攻击宝石    攻击：487\n三级攻击宝石    攻击：487"
+   ,Label_ex,"[fff143]套装属性[-]\n[ffa631]50级紫色攻击套装(1/6)[-]\n[00ff00]武器[-]  武器  [00ff00]武器[-]  武器  武器\n3件  攻击+89\n6件  增伤+0.98%"
+   ,Label_ex,战力：899969
+   ,Label_ex,战力：899969
+   ,num,200
+   ,name (1),卖出：
+   ,Label4,装备
+   ,Name,套套宠物蛋
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,等级:
+   ,useLvlLabel,99
+   ,bang,已绑定
+   ,NO_bang,非绑定
+   ,Label,获得途径：
+   ,Label,1 [u]商城购买
+   ,Label,2 [u]活动获得
+   ,name,生命：
+   ,num,1500
+   ,Label_ex,"获得途径：\n商城购买\n等级奖励"
+   ,num,200
+   ,name (1),卖出：
+   ,name (1),不可出售
+   ,Name,套套宠物蛋
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,等级:
+   ,useLvlLabel,99
+   ,bang,已绑定
+   ,NO_bang,非绑定
+   ,Label,获得途径：
+   ,Label,1 [u]商城购买
+   ,Label,2 [u]活动获得
+   ,name,生命：
+   ,num,1500
+   ,Label_ex,"获得途径：\n商城购买\n等级奖励"
+   ,position_type,肩膀
+   ,Label (3),部位：
+   ,familyName,坐骑装备
+   ,equipGs,战力:
+   ,equipGsValue,888
+   ,num,200
+   ,name (1),卖出：
+   ,name (1),不可出售
+MagicTower,Label,[u]规则说明
+   ,Label,奖励兑换
+   ,Label (1),混沌镇魔塔：十大仙道鬼宝中的第一封印至宝。镇魔塔共七层，第一层中均封印有无上魔神。镇魔塔每日12点开启，24点关闭，开启期间，所有1转45级以上玩家可组队进入挑战。
+   ,Label (2),爬楼奖励
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (3),"当前难度:                  参加时间:12:00\n要求等级:                  推荐人数:\n推荐战力:"
+   ,Label,开始挑战
+   ,Num,3
+OnlineReward,Label,领取奖励
+   ,Label (1),再等待         可领取
+   ,AlreadyReceive ,已领取
+   ,NotReceive,暂不能领取
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+Recharge,Label,您当前为:
+   ,EXP,500/300
+   ,Label,VIP权限
+   ,LV,10
+   ,Label,您当前拥有           :
+   ,num,0
+   ,buy,60
+Ronghe,Name,无
+   ,Name,无
+   ,Label,提升资质
+   ,Label,使用宠物蛋
+   ,Label,属性
+   ,Chengzhang,成长：
+   ,Chengzhang (1),资质：
+   ,Chengzhang (2),攻击：
+   ,Chengzhang (3),命中：
+   ,Chengzhang (4),暴击：
+   ,Label (1),灵修
+   ,ZhuChengzhangVal,67
+   ,ZhuZizhiVal,67
+   ,ZhuAttVal,67
+   ,ZhuHitVal,67
+   ,ZhuCrazyHitVal,67
+   ,Label,资质已满
+   ,Label,属性
+   ,Chengzhang,成长：
+   ,Chengzhang (1),资质：
+   ,Chengzhang (2),攻击：
+   ,Chengzhang (3),命中：
+   ,Chengzhang (4),暴击：
+   ,Label (1),灵修
+   ,ZhuChengzhangVal,67
+   ,ZhuZizhiVal,67
+   ,ZhuAttVal,67
+   ,ZhuHitVal,67
+   ,ZhuCrazyHitVal,67
+   ,Label,资质已满
+   ,Label,使用宠物蛋
+   ,Label,提升资质
+   ,Label,融合
+   ,Label,0/0
+   ,Label,"融合后，副宠化为资质进度，主宠的成长、灵修取两者最高\r\n资质提升经验满槽，主宠资质获得提升"
+   ,Label,使用
+   ,Label,使用
+   ,Label,使用
+   ,Label,0/0
+   ,Label,使用资质丹直接增加资质经验
+   ,ExpLab (1),经验:10
+   ,CountLab (1),1/0
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,ExpLab (1),经验:50
+   ,CountLab (1),1/0
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,ExpLab (1),经验:200
+   ,CountLab (1),1/0
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (1),20
+   ,Label,物品不足时自动从商店购买
+   ,Label,0/0
+   ,Label (1),融合宠物蛋直接增加资质经验
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+Item_icon,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+BossInstance,appear,已出现
+VIP_Charge,LV,7
+   ,EXP,500/300
+   ,Label,立即充值
+   ,Label,您当前为：
+   ,Label,VIP权限
+   ,RMB,50
+   ,Yuanbao,500
+   ,Label,成为      可领取
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,领取奖励
+   ,Label,[b]已领取
+   ,num,10
+FailurePrompt,Label,"本次副本已失败,少侠请重新来过！   \n秒后自动离开副本"
+   ,Label,离开
+Settlement,Label,我要变强
+   ,Label,获得：
+   ,Label,排名：
+   ,Label,EXP
+receive,Label,替换
+   ,Label,恭喜你获得                     称号
+   ,Label,可在角色-[外形]标签栏进行替换
+MallItem,Label,购买
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+Chengzhang,Label,"当前成长：\n攻击：\n命中：\n暴击："
+   ,Label (1),"下级成长：\n攻击：\n命中：\n暴击："
+   ,Label,0/0
+   ,Name,[u][url=2200004]宠物零食[/url]
+   ,Label,提升成长需消耗:
+   ,foodVal,0/[FF2929]0
+   ,Label (1),0/0
+   ,Label (1),0/0
+   ,Label,消耗：
+   ,Label,物品不足时自动从商店购买
+   ,Label,提升
+   ,Label,[u]获得材料
+   ,Label,已满级
+NPC_dialog_renshenguo,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+GuildList,Label,排行             名称         等级           盟主         仙盟成员      仙盟战力          相关操作
+   ,Label,一键申请
+   ,Label,创建仙盟
+   ,Label,只显示可当前加入的仙盟
+   ,Label,返 回
+   ,Label,我们的排名：
+   ,Label,消耗            创建1级公会
+   ,Label,创建
+   ,num,50
+   ,item,[BD54FF][url=2600023][u]仙盟令[/url][-]
+   ,Label,消耗            创建2级公会
+   ,Label,创建
+   ,Label,请输入仙盟名
+   ,Label,请输入仙盟宗旨
+FirstChargeBonus,Label,领取奖励
+   ,Label,充值
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+NoviceTips,Label,"30级将开启[FF2929]PK系统[-]，您将有可能遭到其他玩家的PK\r\n\r\n可在头像下方切换[FF2929]PK模式[-]，不同的[FF2929]PK模式[-]将限制你能攻击的对象哦\r\n\r\n恶意击杀其他玩家将会增加[FF2929]杀戮值[-]，[FF2929]杀戮值[-]在线状态下可自动减少，也可使用[44D11E]清心丹[-]快速洗掉被人恶意攻击，一分钟内反击不会增加[FF2929]杀戮值[-]"
+   ,Title,PK规则介绍
+   ,Label,主线任务先告一段落了，不过不要担心，主人可以通过其他活动、任务升级哦！据说[44D11E]环式任务[-]和[44D11E]试炼任务[-]的经验可是非常诱人呢！
+   ,Label (1),亲爱的
+   ,Label,去试试看
+Chat_box,Label,信息
+   ,Label,私聊
+   ,Label,组队
+   ,Label,加好友
+   ,Label,黑名单
+   ,Label,邮件
+   ,Label,发送
+   ,Label,20
+   ,Label,请输入消息内容
+   ,Label,请输入名字
+   ,Label,请输入消息内容 
+   ,Channel_type,世
+   ,Label,大喇叭
+   ,Label,世界
+   ,Label,队伍
+   ,Label,仙盟
+   ,Label,按住说话
+   ,Label (1),松开按钮，发送语音
+   ,Label,全部
+   ,Label,世界
+   ,Label,队伍
+   ,Label,仙盟
+   ,Label,系统
+   ,Label,私聊
+   ,Label (1),1
+   ,Vip_lev,7
+   ,Name,[u]不爱此番茄
+   ,time,3''
+   ,Name,[u]不爱此番茄
+   ,time,3''
+   ,Name,[u]不爱此番茄
+   ,time,3''
+   ,Label,与                         聊天中...
+   ,Name,速度烧点水
+   ,Label,就爱次番茄
+   ,Label (1),1
+   ,Label,就爱次番茄
+   ,Label (1),1
+   ,Label,就爱次番茄
+   ,Label (1),1
+   ,Label,就爱次番茄
+   ,Label (1),1
+   ,Label,就爱次番茄
+   ,Label (1),1
+   ,Label,（还可输入    字）
+   ,zishu,30
+   ,Label,剩余喇叭数量：
+   ,Num,39
+   ,Label,大喇叭
+   ,Label,请输入喇叭内容，让世界听见你的声音
+   ,Label,发送
+   ,Label,陪你去看日落
+   ,Lv,7转28级
+Love spree,Label,充值
+   ,Label,领取
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,"小蛮为主人准备了丰富的大礼包,主人累计充值                         元宝即可获得哦！"
+   ,Label (1),当前充值额度：
+   ,Label (2),0/6000
+   ,Label,500
+CelestialDomain,Label,[u]奖励说明
+   ,Label,进入争霸
+   ,Label, 活动尚未开启
+Xiuling,Label,天魂
+   ,Gongji,攻击：+
+   ,Label,修炼
+   ,AttLabAfterTrainTH,0
+   ,Jindu,0/0
+   ,Label,已满级
+   ,Label,地魂
+   ,Gongji,命中：+
+   ,Label,修炼
+   ,Jindu,0/0
+   ,HitLabAfterTrainDH,0
+   ,Label,已满级
+   ,Label,命魂
+   ,Gongji,暴击：+
+   ,Label,修炼
+   ,Jindu,0/0
+   ,CrazyHitLabAfterTrainMH,0
+   ,Label,已满级
+   ,Label (2),需消耗：
+   ,Label (2),0/0
+   ,Label (2),[u]获得材料
+   ,Label (1),0/1
+   ,Label,消耗：
+   ,Label,物品不足时自动从商店购买
+   ,Label,1/0
+   ,Name,[u][url=2200005]灵修卵石[/url]
+SpiritAnimal,Label,信息
+   ,Label,成长
+   ,Label,灵修
+   ,Label,融合
+   ,Label,守护
+   ,Label,技能
+   ,Label,宠物
+   ,Label,坐骑
+   ,Label,幻化
+   ,Label,骑装
+Huanhua,Label,上一页
+   ,Label,下一页
+   ,Label (1),获得途径：活动获得
+   ,Lv,Lv:0
+   ,Label,0/0
+   ,Label,[u]属性加成
+   ,Label (2),获得坐骑幻化可增加经验
+   ,Label,幻化
+   ,Label,解除幻化
+   ,Dangqianshuxing (2),"+\n+\n+\n+\n+\n+\n+"
+   ,Dangqianshuxing (3),"生命：\n攻击：\n防御：\n暴击：\n命中：\n闪避：\n韧性："
+   ,Label (1),当前属性      下级属性
+   ,life,0
+   ,att,0
+   ,def,0
+   ,crazyAtt,0
+   ,cir,0
+   ,escape,0
+   ,dur,0
+   ,life,0
+   ,att,0
+   ,def,0
+   ,crazyAtt,0
+   ,cir,0
+   ,escape,0
+   ,dur,0
+Xinxi,Label,放生
+   ,Label,休息
+   ,Label,出战
+   ,Zhizhi,资质：
+   ,ZhizhiVal,0
+   ,Chengzhang,成长：
+   ,ChengzhangVal,0
+   ,Dengji,级
+   ,DengjiVal,0
+   ,Label,改名
+   ,Label,当前属性
+   ,Label (2),属性         成长        精魂
+   ,Label (1),"攻击\n命中\n暴击\n天魂\n地魂\n命魂"
+   ,Label,当前技能
+   ,Label,0
+   ,Label (2),0
+   ,Label (3),0
+   ,Label (4),0
+   ,Label (5),0
+   ,Label (6),0
+   ,Label (7),0
+   ,Label (8),0
+   ,Label (9),0
+   ,Label,技能说明：
+   ,Label,封印
+   ,Label,遗忘
+Zuoqi,Name,大熊猫
+   ,Lv,3阶3级
+   ,Label,化形
+   ,Label,进化化为此型
+   ,Label,乘下
+   ,Label,骑上
+   ,Label,激活
+   ,Label,当前属性          下级属性
+   ,Dangqianshuxing,"速度：\n生命：\n攻击：\n防御：\n暴击：\n韧性：\n命中：\n闪避："
+   ,Dangqianshuxing (1),"+\n+\n+\n+\n+\n+\n+\n+"
+   ,speed,0
+   ,life,0
+   ,att,0
+   ,def,0
+   ,crazyAtt,0
+   ,resistance,0
+   ,cir,0
+   ,escape,0
+   ,speed,0
+   ,life,0
+   ,att,0
+   ,def,0
+   ,crazyAtt,0
+   ,resistance,0
+   ,cir,0
+   ,escape,0
+   ,Label (1),0
+   ,Label,消耗：
+   ,Label,物品不足时自动从商店购买
+   ,Label,坐骑培养
+   ,Label,[u]获得材料
+   ,Label (3),培养坐骑需消耗：
+   ,Label (2),0/[FF2929]0
+   ,Label,1/[FF2929]0
+   ,Label (1),当前进化成功率:
+   ,changceVal,100%
+   ,Name,[u][url=2200003]三清仙草[/url]
+   ,Label,已满级
+Shouhu,Label,守护可用技能
+   ,Label,宠物属性                 人物属性
+   ,Label (1),"攻击\n暴击\n命中"
+   ,Zizi,资质：
+   ,Label,0
+   ,Zizi (1),属性转化率：
+   ,Zizi (2),0
+   ,Label,最多拥有2个守护宠物
+   ,Label,0
+   ,Label (2),0
+   ,Label (3),0
+   ,Label (4),0
+   ,Label (5),0
+   ,Label (6),0
+   ,Label,取消守护
+   ,Label,守护
+   ,Label,技能说明：
+   ,Label,封印
+   ,Label,遗忘
+Jineng,Label,当前技能
+   ,Label (1),拥有技能书
+   ,Label,技能图鉴
+   ,Label,技能合成
+   ,Label,获得技能
+   ,Label,技能图鉴
+   ,Label,中级
+   ,Label,高级
+   ,Label,顶级
+   ,Label,初级
+   ,Label,获得技能书
+   ,Label,批量抄写
+   ,Label,10/0
+   ,Name,[u][url=2200001]技能卷轴[/url]
+   ,Label,抄写
+   ,Label,1/0
+   ,Name (1),[u][url=2200001]技能卷轴[/url]
+   ,Label (1),0
+   ,Label,消耗：
+   ,Label,物品不足时自动从商店购买
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,选择需要合成的技能书
+   ,Label,[u]相关规则
+   ,Label,合成
+   ,Label,放入合成材料
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (2),"放入\n材料"
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (1),"放入\n材料"
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,"放入\n材料"
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (2),"放入\n材料"
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (3),"放入\n材料"
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (4),"放入\n材料"
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (5),"放入\n材料"
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (6),"放入\n材料"
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (7),"放入\n材料"
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (8),"放入\n材料"
+   ,Label,我的背包
+   ,Label,一键放入
+   ,Label,获得技能书
+   ,Label (2),高级技能
+   ,Label (3),顶级技能
+   ,Label,你没有高、顶级技能书
+   ,Label,技能说明：
+   ,Label,封印
+   ,Label,遗忘
+Strengthen,Label,[u]获得材料
+   ,des,紫色及以上品质装备强化+8后激活超炫特效
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (1),强化
+   ,nextStrengthLv,+1
+   ,Str_label,+6
+   ,Label,完美度
+   ,Label,1
+   ,UILabelOpenUI,[u]商城购买
+   ,Label,2
+   ,UILabelOpenUI (1),[u]奈何桥获得[/u]
+   ,Label,3
+   ,mode,[u]商城购买
+   ,Label,4
+   ,mode,[u]商城购买
+   ,Label,"1.紫色及以上品质装备强化+8后激活超炫特效。\n2.全身装备强化等级达到18、22、26、30、32时角色将获得超炫的光环特效。"
+   ,Label,一键强化
+   ,Label,单次强化
+   ,Label,消耗：
+   ,Label,强化石不足时自动使用元宝
+   ,Label (1),"随机增长完美度,升满强化成功"
+   ,Label,完美强化
+   ,Label,"随机增长完美度,升满强化成功"
+   ,Label,消耗：
+   ,Label,镶嵌解锁
+SocialChildJieYi,Label,结 义
+   ,Label,结义任务
+   ,Label,任务目标：
+   ,Label,寻路
+   ,Label,任务目标：
+   ,Label,寻路
+   ,Label,任务目标：
+   ,Label,寻路
+   ,Label,完成任务目标增加积分:
+   ,Label,[u][b]规则说明
+   ,Label,领取
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,已领取
+   ,Label,情义等级：
+   ,Label (1),情义值：
+   ,Label (2),提升属性需要：
+   ,Label,情义属性
+   ,Label,定下誓言
+   ,Label,结义誓言
+   ,Label,结义誓言
+   ,Label,分道扬镳
+   ,Label,赠送美酒
+   ,Label,赠送美酒
+   ,des,要赠送美酒吗?
+   ,Label,确定
+   ,Label,不再提示
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,des,情义属性加成
+   ,Label,当前
+   ,Label (1),血量：
+   ,Label (2),攻击：
+   ,Label (3),防御：
+   ,Label (4),暴击：
+   ,Label (5),命中：
+   ,Label (6),闪避：
+   ,Label (7),韧性：
+   ,Label (8),组队经验杀怪：
+   ,Label,下级
+   ,Title,要退出结义吗
+   ,Label,确定
+   ,Label,取消
+   ,des,"注意，退出将会出现以下情况：\n1.情义值清0，失去情义等级。\n2.失去情义属性加成。\n3.失去一键组队功能。"
+   ,Label,[u][b]规则说明
+   ,Label,一键组队
+   ,Label,"结义的方式：\n1.与想要结义的伙伴组队，最多为3人。\n2.队伍成员等级都超过30。\n3.前往长安城，找到             ，并消耗100元宝进行结义。\n4.结义后所有结义成员增加大量属性。"
+   ,Label,[u]结义大哥
+Batch_Useitem,title,使用道具
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,MAX
+   ,Label,确定使用
+NewOnlineReward,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,Label,抽奖
+   ,choujinging,抽奖中
+EquipmentTraining,Label,强化
+   ,Label,升阶
+   ,Label,橙炼
+   ,Label,洗练
+   ,Label,镶嵌
+   ,Label,继承
+   ,Label,背包
+   ,Label,身上
+   ,Name (1),New Label
+   ,Occupation,点击放入
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,goldNum,22/22
+   ,Label,强化石不足时自动使用元宝
+Wash,Label,[u]获得材料
+   ,Label,[u]规则说明
+   ,Label,至尊洗练
+   ,Label,批量洗练
+   ,Label,洗练
+   ,Label,替换
+   ,num,0/10000
+   ,UILabel,消耗：
+   ,Str_label,+8
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,材料不足时自动使用元宝
+   ,icon_num,9/[00ff00]729803[-]
+   ,Label,材料不足时自动使用元宝
+   ,num,0/10000
+   ,thing_1,消耗：
+   ,comsume,[bd54ff][url=2400013]紫色洗练石[/url][-] 8[ff0000]/0[-]
+   ,Label (1),批量洗炼
+   ,Label,至尊洗练
+   ,Label,批量洗练
+   ,Label,返回
+   ,Label,替换
+   ,Label,1
+   ,UILabelOpenUI,[u]真假美猴王
+   ,Label,2
+   ,UILabelOpenUI,[u]商城购买
+   ,des (3),点击      可锁定属性进行洗练
+Upgrade,Label,[u]获得材料
+   ,Label,升阶
+   ,Label,当前装备
+   ,Str_label,+8
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,下级装备
+   ,Str_label,+8
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,消耗材料：
+   ,Label,铜钱不足时自动使用元宝
+   ,Label,1
+   ,UILabelOpenUI,[u]挑战boss
+   ,Label,2
+   ,UILabelOpenUI (1),[u]藏宝库
+   ,des (1),紫色及以上品质的装备才可升阶
+Inherit,Label,[u]规则说明
+   ,Label,继承
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,消耗材料：
+   ,Label,可多选：
+   ,Label,继承强化属性
+   ,Label,继承洗练属性
+   ,Label,继承幸运属性
+   ,Label,材料不足时自动使用元宝
+Inlay,Label,[u]获得材料
+   ,Label,[u]规则说明
+   ,des,[点击宝石可镶嵌或摘除]
+   ,weijiesuo,紫色品质开启
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,name,[6ef574]二级防御石
+   ,weijiesuo,强化10开启
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,name (1),宝石名称
+   ,weijiesuo,强化15开启
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,name (1),宝石名称
+   ,weijiesuo,强化20开启
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,name (2),宝石名称
+   ,weijiesuo,橙色品质开启
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,name (3),宝石名称
+   ,weijiesuo,40级装备开启
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,name (4),宝石名称
+   ,weijiesuo,50级装备开启
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,name (5),宝石名称
+   ,weijiesuo,强化24开启
+   ,weijiesuo_1,可镶嵌任意类型宝石
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,1
+   ,UILabelOpenUI,[u]白骨寒狱
+   ,Label,3
+   ,UILabelOpenUI,[u]商城购买
+   ,Label,2
+   ,UILabelOpenUI,[u]藏宝库
+GuildSkillItem,Label,消耗贡献：
+   ,Label,学习
+BattleInformation,Label,对战
+   ,Label (1),胜利
+   ,victory,最终
+   ,fail,失败
+Main_Skill,Label,10
+   ,Label,级解锁
+   ,unlockLvl,99
+   ,Label,[b]法力不足
+   ,Label,10
+   ,Label,级解锁
+   ,unlockLvl,18
+   ,Label,[b]法力不足
+   ,Label,10
+   ,Label,[b]级解锁
+   ,unlockLvl,99
+   ,Label,[b]法力不足
+   ,Label,10
+   ,Label,[b]级解锁
+   ,unlockLvl,99
+   ,Label,[b]法力不足
+   ,Label (1),退出
+   ,Label1,hgfhgfhfghfghfghfghfghfgh
+   ,Vip_lev,7
+   ,Label,：
+   ,Label,松开按钮，发送语音
+   ,Label,12
+SocialChildFriends,Label,好友
+   ,Label,附近的人
+   ,Label,黑名单
+   ,Label,敌人
+   ,Label,查找好友
+   ,Label,好友管理
+   ,name,玩家名字
+   ,lev,4转99级
+   ,des,与你同屏
+   ,qinmidu,120
+   ,place,所在场景:
+   ,Label (4),发送消息
+   ,Label (3),组队邀请
+   ,Label (4),加为好友
+   ,Label (5),查看资料
+   ,Label (6),去她身边
+   ,Label (3),发送消息
+   ,Label (2),组队邀请
+   ,Label (3),删除好友
+   ,Label (4),查看资料
+   ,Label (5),加黑名单
+   ,Label (4),发送邮件
+   ,Label (2),查看资料
+   ,Label (1),移除黑名单
+   ,Label,查看资料
+   ,Label,去他身边
+   ,Label,查看资料
+   ,Label,加为好友
+   ,Label,好友推送
+   ,Label_chazhao,查找好友
+   ,Label,查找
+   ,Label,添加
+   ,Label,换一批
+   ,Label,添加好友
+   ,noone,[b]没有可以推送的好友！
+   ,Label,反选删除
+   ,Label,选中删除
+   ,Label,全部删除
+   ,Label,进黑名单
+   ,Label,全部取消
+   ,Label,[b]附近没有其他玩家！
+   ,Label,[b]当前还没有添加好友！
+Flowers,title,请选择一样进行赠送
+   ,Label (1),拥有数量：
+   ,Label,赠 送
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (1),拥有数量：
+   ,Label,赠 送
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (1),拥有数量：
+   ,Label,赠 送
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+MartialArts,Label,[u]规则说明
+   ,Label,[u]奖励说明
+   ,Label,报名
+   ,Label,战斗信息
+   ,Label,个人积分排行
+   ,Label (1),排名                名称                 战斗力               积分
+   ,Label,武道会
+   ,Label (1),"1.在武道会场景内，系统会自动匹配对手。\r\n2.匹配成功后，将进行1v1的对战。\r\n3.活动时间内击败的对手越多，获得的积分就\n越多！\r\n4.报名后离线或挂机，化身也会帮你战斗。"
+   ,Label,确定
+Jijiangjinru,Label,即将进入副本
+DrugTips,Label,药水补充提示
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (1),已用完，请即时补充
+   ,Label,商店购买
+   ,Label,成为[00FF00]VIP[-]自动补充
+   ,Label,开启自动购买药品
+Main_Player,Hp value,100000/10000
+   ,combat,12345
+   ,Label,1
+   ,modeName,全体
+   ,Label (1),和平
+   ,Label (1),全体
+   ,Label (1),组队
+   ,Label (1),仙盟
+   ,Label (1),善恶
+   ,Label,队长
+   ,Label,和平
+   ,Label,只能攻击怪物
+   ,Label,全体
+   ,Label,可攻击任何玩家
+   ,Label,组队
+   ,Label,可攻击队友以外的玩家
+   ,Label,仙盟
+   ,Label,可攻击本仙盟以外的玩家
+   ,Label,善恶
+   ,Label,可攻击黄名、红名玩家
+   ,Label_msg,小提示：体力在恢复的过程中，推参加勇者协会与其他玩家一起游戏！
+   ,Label,确 定
+   ,Label,取 消
+   ,Label,不再提示
+PetTitle,Label,成长≥          攻击+
+TeamInstance,Label,队长
+NPC_dialog,NPC_name (1),领取奖励
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+BattlefieldSettlement,Label,奖励提升30%
+   ,Label (1),奖励提升10%
+   ,Label,排名          昵称             伤害        击杀          积分       奖励级别
+   ,Label,仙界
+   ,Label,妖界
+   ,Paiming,3
+   ,Shanghai,3
+   ,Jisha,3
+   ,Jifen,0
+   ,Paiming,3
+   ,Shanghai,3
+   ,Jisha,3
+   ,Jifen,0
+   ,Paiming,3
+   ,Shanghai,3
+   ,Jisha,3
+   ,Jifen,0
+   ,30,X30%
+   ,10,X10%
+Jingcaihuodong,Label (1),活动剩余时间:
+   ,Label,领 取
+   ,Label,已领取
+   ,Label,充 值
+   ,Label,提升战力
+   ,Label,强化装备
+   ,Label,升级仙羽
+   ,Label,查看排行
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,上届得主：
+   ,Label (1),当前玩家：
+   ,Label,活动剩余时间:
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,TopLabel,充值满     元宝领取
+   ,LowerLabel,当前可领取奖励数量：
+   ,Label,充 值
+   ,Label,一键领取
+SocialChildKefu,Label,提 问
+   ,Label,回 复
+   ,Label,类型
+   ,Label,游戏BUG
+   ,Label,游戏建议
+   ,Label,投诉反馈
+   ,Label,其他建议
+   ,Label,标题
+   ,Label,建议
+   ,Label_1,客服QQ群：373482484
+   ,Label_1 (1),客服QQ1：?????????
+   ,Label_1 (2),客服QQ1：?????????
+   ,Label_1 (3),客服QQ1：?????????
+   ,Label,提 交
+   ,Label,描述
+   ,Label,游戏建议
+   ,Label (1),说明内容：描述限制200个字，标题20个字！
+   ,time,2016-3-15 17：25：54
+   ,Label,标题：
+   ,Label (1),状态：
+   ,title,为什么不送我元宝
+   ,ZT,已回复
+   ,ZT (1),待定中
+   ,Label,问题描述
+   ,TYPE,游戏BUG
+   ,ask,问题文本显示区域
+   ,answer,回复文本显示区域
+   ,Label (1),客服回复
+   ,TYPE (1),游戏BUG
+   ,TYPE (2),游戏建议
+   ,TYPE (3),投诉反馈
+   ,TYPE (4),其他建议
+   ,Label,[为提升服务，诚邀您对本次服务进行评价!]
+   ,Label,非常满意
+   ,Label,满意
+   ,Label,一般
+   ,Label,不满意
+   ,Label,非常不满意
+   ,Label,提交评价
+   ,Label,已评价
+MarketItem,Label,单价
+   ,Label (1),总价
+   ,Label,购买
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+ReturnLoginWnd,Label,网络信号过低，已与用户中心失去连接，请返回登陆重新连接。
+   ,Label,返回登录
+Main_menu,Label,[b]EXP
+   ,Label,人物
+   ,Label,背包
+   ,Label,锻造
+   ,Label,灵兽
+   ,Label,法 宝
+   ,Label,仙盟
+   ,Label,社交
+   ,Label,排行
+   ,Label,[b]队
+   ,Text ,剩余时间
+   ,time,12:40:50
+   ,Label,组队
+   ,Label,交易
+   ,Label,每日运镖
+Social_Contact,Label,邮件
+   ,Label,好友
+   ,Label (1),结义
+   ,Label (1),客服
+   ,Label (1),仙侣
+Marriage_Interface,des,请选择您将要举办的婚宴类型，确定后将扣除所需费用，二位新人将拜堂成亲，巡游长安城，并获得天赐良缘的信物，信物可在“社交”——“仙侣”中查看
+   ,Label,[b]月老赠礼：
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (1),[b]婚礼费用：
+   ,Label,[b]月老赠礼：
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (1),[b]婚礼费用：
+   ,Label,[b]月老赠礼：
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (1),[b]婚礼费用：
+   ,Label,[b]确 定
+NPC_dialog_gerenyunbiao,content,"我们一起来做笔买卖吧！\r"
+   ,Label,我要运镖
+   ,Label,纯属路过
+ChangeList,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+SocialChildMail,Label,全部邮件
+   ,Label,已读邮件
+   ,Label,未读邮件
+   ,Label,全部提取
+   ,Label,创建邮件
+   ,Label,删除已读
+   ,Label,删除全部
+   ,Label,没有新的邮件！
+   ,Label,已读
+   ,Label (1),未读
+   ,Label,发送时间：
+   ,Label (1),邮件主题：
+   ,Label,发邮件
+   ,Label (1),收件人:
+   ,Label (2),标题:
+   ,Label (4),邮费:
+   ,Label,100
+   ,Label,发送邮件
+   ,Label,收邮件
+   ,Label (1),发件人:
+   ,Label (2),标题:
+   ,Label (3),附件:
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (4),货币:
+   ,Label (1),100
+   ,Label (1),100
+   ,Label (1),100
+   ,Label (1),100
+   ,Label,删除邮件
+   ,Label,回复邮件
+   ,Label,提取邮件
+GuildBonfireList,Label,排行                         名称                      等级                        仙盟战力                 相关操作
+NPC_dialog_xianlv,Label,确定
+   ,Label,取消
+   ,content,请与您的结婚对象两人组队来此登记
+GuildShop,Label,当前贡献：
+   ,Label (1),每天凌晨0点仙盟商店刷新
+SocialChildXianLv,NO,无
+   ,Label,当前称号
+   ,NO (1),无
+   ,Label,我要离婚
+   ,Label,补办婚礼
+   ,Label,消耗：
+   ,Label,提升信物
+   ,Label,"仙侣副本\n次数："
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,des,若是离婚，则双方亲密度为1，并且定情信物也将消失，仙侣界面直至您下次结婚才会开启。您真的要离婚吗？
+   ,Label,离婚经费：
+   ,Label (1),1000000
+   ,Label,确定
+   ,Label,取消
+   ,Label,仙侣信物
+   ,Label,"结为仙侣的方式：\n1.与想要结为仙侣的对象组队。\n2.双方尚未结为仙侣，亲密度达到1314，并且都到达30级。\n3.前往长安城，找到          ，并消耗若干绑铜或元宝结为仙侣。"
+   ,Label,[u]姻缘仙人[/u]
+Blessing,Label,祝福
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,幸运+
+   ,Label (1),幸运一击触发概率：
+   ,Label (2),"幸运值：有一定几率触发人物上限伤害（幸运一击）。\n             触发几率受武器幸运值影响。恶意击败玩家有\n             概率降低幸运值。"
+   ,Label (4),消耗：
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (5),幸运提升概率：
+   ,Label (6),幸运降级概率：
+   ,Label,普通祝福
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (5),幸运提升概率：
+   ,Label (6),幸运降级概率：
+   ,Label,高级祝福
+   ,tuijian,[强力推荐]
+   ,Label,物品不足时使用元宝购买
+   ,Label (4),已满级
+PlayerWnd,Label,[b]进入游戏
+   ,Label,[b]删除角色
+   ,PlayerLev,[b]LV.
+Uptips,Label,完成首充
+   ,Label,传送试用已到期
+   ,Label (1),完成首充即可[FFD700]永久免费[-]使用传送功能
+   ,Label (2),还有[FFD700]橙武[-]、[FFD700]翅膀[-]等豪礼免费领取
+UnzipgWnd,LoadingProgress,[b]
+   ,LoadingText,[b]正在解压资源1/8(此过程不消耗流量)
+   ,LoadingText (1),[b]正在解压资源2/8(此过程不消耗流量)
+   ,LoadingText (2),[b]正在解压资源3/8(此过程不消耗流量)
+   ,LoadingText (3),[b]正在解压资源4/8(此过程不消耗流量)
+   ,LoadingText (4),[b]正在解压资源5/8(此过程不消耗流量)
+   ,LoadingText (5),[b]正在解压资源6/8(此过程不消耗流量)
+   ,LoadingText (6),[b]正在解压资源7/8(此过程不消耗流量)
+   ,LoadingText (7),[b]正在解压资源8/8(此过程不消耗流量)
+GuildSiege,Label,[b]活动说明
+   ,Label,加入战斗
+   ,Label,[b]宣告攻城
+   ,Label,[b]城内商店
+   ,Label,[b]申请列表
+   ,Label,申请攻城需要
+   ,Label,x
+   ,Num,200000
+   ,Label,攻城令x
+   ,Num,1
+   ,Label,确定
+   ,Label,排行            名称              等级               盟主             仙盟成员           仙盟战力
+   ,Label,充值
+   ,Label,真元
+   ,Label,元宝
+   ,Label,城主
+Synthesis,Label,锻造材料
+   ,Label,宝石
+   ,Label,宠物
+   ,Label,[u]前往锻造
+   ,Label,一键合成
+   ,Label,合 成
+   ,Label (1),需要：
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (2),预览
+   ,Label,12
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,只显示当前可合成的道具
+MonsterHeadWnd,Label,x1
+   ,Label,查看信息
+   ,Label,私聊
+   ,Label,组队
+   ,Label,加为好友
+   ,Label,交易
+   ,Label,邮件
+   ,Label,查看信息
+   ,Label,私聊
+   ,Label,组队
+   ,Label,加为好友
+   ,Label,交易
+   ,Label,邮件
+Market,Label,拍卖行
+   ,Label,我的拍卖
+   ,Label,物品            名称                        等级                     价格                      操作
+   ,Label,等级
+   ,Label,品质
+   ,Label,价格
+   ,Label,货币
+   ,Label_0,不限
+   ,Label_1,20级
+   ,Label_2,30级
+   ,Label_3,40级
+   ,Label_4,50级
+   ,Label_5,60级
+   ,Label_6,70级
+   ,Label_7,80级
+   ,Label_8,90级
+   ,Label_9,100级
+   ,Label_0,不限
+   ,Label_1,绿色
+   ,Label_2,蓝色
+   ,Label_3,紫色
+   ,Label_4,橙色
+   ,Label_0,不限
+   ,Label_1,降序
+   ,Label_2,升序
+   ,Label_0,不限
+   ,Label_1,元宝
+   ,Label_2,铜钱
+   ,Label,上架
+   ,Label,购 买
+   ,Label,确定购买
+   ,label,选择购买数量：
+   ,name,商品名称
+   ,Label,购买单价：
+   ,Label (1),需要消耗：
+   ,Unit_Price,2
+   ,Total,22
+   ,Label,增加10个
+   ,Label,1
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,des,商品描述
+   ,Label,你还没有上架物品！
+   ,Label,物品             名称                       等级                       价格                 剩余寄售时间                    操作
+MessgeUI,Label,不再提示
+   ,Label,确 定
+   ,Label,取 消
+   ,Label,确 定
+   ,Title,[b]提示
+   ,Label_msg,小提示：体力在恢复的过程中，推参加勇者协会与其他玩家一起游戏！
+   ,LabelTips,小提示：体力在恢复的过程中，推参加勇者协会与其他玩家一起游戏!
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,Label,可开启
+   ,Label (1),开启中
+   ,+ (1),+
+   ,Label (3),9999
+   ,Label (1),9988822
+   ,Label,9999988
+   ,-,-
+   ,Label (2),9999
+   ,Label1,[b]总花费：
+   ,Label,快捷购买
+   ,Label,[b]缺少以下物品，是否用钻石补充？
+   ,Label,"[b]本次操作\n不再提示"
+   ,myMoney,9999999999
+   ,Label,充 值
+   ,Label,确定补充
+   ,totalMoney,12323654652
+   ,Label,拒绝加入（   ）
+   ,num,5
+   ,Label,队伍即将开始挑战
+   ,CopyName,微光森林1（大师）
+IncreaseStrength,Label,小小的失败不能阻扰我们成为强者的心，你如何选择？
+   ,Label,[u]锻造神兵利器！
+   ,Label,[u]培养极品宠物！
+GuildProtect,Yikaiqi,本日活动已开启
+   ,Weikaiqi,本日活动未开启
+   ,Label,仙域守护输出排行
+   ,Label,开启活动
+   ,Label,进入活动
+   ,Label,仙域守护规则：
+   ,Label (1),"1.仙域守护每日可由盟主开启一次，盟主开启后倒计时5分钟活动正式开始\r\n2.每日0点活动次数重置刷新\r\n3.活动开启后，需防守从3个方向刷出的妖魔大军，阻止怪物从传送门闯入仙域，闯入怪物数量大于100，活动直接失败\r\n4.活动时间结束时，闯入的怪物数量未超过100或击败所有怪物，守护成功，仙盟成员可获得大量贡献奖励\r\n5.若守护失败，至少需要守护5波以上才可获得奖励\r\n"
+   ,Label (1),仙域守护排行
+   ,Label (2),排行                          角色名                         积分
+CastingSoul,Label,普通铸魂
+   ,Label,获得基础奖励
+   ,Label,高级铸魂
+   ,Label,x2
+   ,Label (1),奖励
+   ,Label (2),至少
+   ,Label,[u]规则说明
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,[FF0000]火之魂
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,name,道具名称
+   ,Label,[0000FF]冰之魂
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,name,道具名称
+   ,Label,[00FF00]水之魂
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,name,道具名称
+   ,Label,[00FFFF]风之魂
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,name,道具名称
+   ,Label,[FF7F00]雷之魂
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,name,道具名称
+   ,tog4NeedLev,35级解锁
+   ,tog5NeedLev,45级解锁
+   ,Label,23/100
+   ,Label,进度奖励：
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,get,领 取
+   ,get (1),已领取
+TransferPrompt,Label,"将使用10礼金进行传送\r\n成为VIP后可免费传送"
+   ,Label,不再提示
+   ,Label,确定
+AchievementUI,Label,增加生命
+   ,Label (2),75000
+   ,Label (1),当前提升
+   ,Label,完成成就后可获得生命提升奖励
+   ,Label,"成就：\n奖励："
+   ,rewardLabel,生命+1000
+   ,Label (1),称号：
+   ,Label,[b]领 取
+   ,Label,[b]未完成
+   ,Label,[b]已领取
+ReconnectBox,Label,网络连接已断开，正在尝试重新连接
+   ,Label,"\n        1、您的网络不稳定，请检查网络情况。\n\r\n        2、服务器进入维护中。\n\n        3、帐号在其它设备上重复登入。\r"
+   ,Label (1),"可能出现以下原因：\r\r"
+   ,Label,返回登录
+   ,Label,重试(   )
+Main_Task,Label (1),队伍
+   ,Label (2),队伍
+   ,Label,附近的人
+   ,Label,队长
+   ,Label,队长
+   ,Label,请出队伍
+   ,Label,转让队长
+   ,Label,发送消息
+   ,Label,加为好友
+   ,Label,离开队伍
+   ,Label,发送消息
+   ,Label,加为好友
+   ,Label,离开队伍
+   ,Label,查看信息
+   ,Label,私聊
+   ,Label,组队
+   ,Label,加为好友
+   ,Label,交易
+   ,Label,邮件
+   ,Label,任务
+   ,Label,任务
+   ,Label (1),篝火
+   ,Label,"篝火经验加成:\n累计获得经验:\n当前仙盟：\n当前仙盟水晶:"
+   ,Label (1),剩余时间:
+   ,Label,其他仙盟
+   ,Label,仙盟篝火
+   ,Label,"1、只要停留在篝火的场景内，便可轻松获得经验。\n2、好好守护仙盟的晶石！\n3、尽可能的破坏其他仙盟的晶石，摧毁对方水晶获得加成奖励。"
+   ,Label,确 定
+   ,Label,秒后开始
+   ,Label (2),篝火
+   ,Label,活动剩余时间:
+   ,Label (1),活动规则说明
+   ,Label (2),"站在活动区域可获得经验，晶石\n附近的经验比远处更多！"
+   ,Label (2),神圣晶石
+   ,Label (1),神圣晶石
+   ,Label (1),仙域争霸
+   ,Label,三境水晶破坏后开启内城传送门
+   ,Label,北境水晶：
+   ,Label,西境水晶：
+   ,Label,东境水晶：
+   ,Label (1),进入内城，拔起内城中的旗帜则获得胜利
+   ,Label (4),距传送门关闭还剩：
+   ,Label (5),内城传送门已开启
+   ,Label (1),进入内城，拔起内城中的旗帜则获得胜利
+   ,Label (2),内城传送门已关闭
+   ,Label (3),内城玩家死亡后无法进入内城
+   ,Label (2),仙域争霸
+   ,Label,魔王
+   ,Label (1),魔王
+   ,Label,[u]火云洞
+   ,Label,[u]里.火云洞
+   ,Label,[u]场景魔王
+AnimalItem,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,选 择
+   ,Label,已 选 择
+Chibang,biaoti,星河炫羽
+   ,Label,仙羽技能
+   ,Label (1),仙羽属性
+   ,Label,无
+   ,Label,确 定
+   ,des,恭喜！无暇白羽已激活！
+   ,Label,购买正式版
+   ,Skillname,幻觉毒素：
+   ,Label,被动技能
+shenyuan,Label,点击物品放入
+   ,Label,身上
+   ,Label,背包
+   ,Label,"绑定状态：被其它玩家击败后不会掉落，但也无法交易。\n未绑定状态：被其它玩家击败后有可能掉落，但可以交易。"
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,bangding,绑定状态
+   ,weibangding,未绑定
+   ,add,绑定
+   ,add,解绑
+   ,Label,物品不足时自动使用元宝
+   ,Num,0/80
+   ,Label,消耗材料：
+   ,wuping,[u]神渊封印
+   ,Label (1),物品左下角黄色小锁表示已绑定
+PlayerAppearance,Label,衣服
+   ,Label,武器
+   ,Label,称号
+   ,Label (3),称号权益
+   ,Label,称号属性可叠加
+   ,Label (4),称号获得
+   ,Label,查看属性
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label_yifu,衣服获得
+   ,Label_wuqi,武器获得
+   ,Label,前往商城获得
+   ,Label,所有时装属性可叠加
+   ,Label_wuqi,武器权益
+   ,Label_yifu,衣服权益
+   ,yongjiu_yifu,永久衣服时装
+   ,yongjiu_wuqi,永久武器时装
+   ,xianshi_wuqi,限时武器时装
+   ,xianshi_yifu,限时衣服时装
+   ,Label,等级属性
+   ,Label,时装属性
+   ,Tilile,所有时装赋予的属性
+   ,Dangqianshuxing (2),"+\n+\n+\n+\n+\n+\n+"
+   ,Dangqianshuxing (3),"生命：\n攻击：\n防御：\n暴击：\n命中：\n闪避：\n韧性："
+   ,Label (1),当前属性      下级属性
+RankSubWnd,Label (1),排名
+   ,RankingNum,1
+   ,Weishangbang,"暂未\n上榜"
+   ,Title,角色名               战力              查看
+   ,Label,查看
+Daydo,Label,活动
+   ,Label,变强
+   ,need,次
+   ,Label,[u]点击前往
+   ,amount,100
+   ,vip,vip1双倍领取
+   ,amount,150
+   ,vip,vip2双倍领取
+   ,amount,200
+   ,vip,vip3双倍领取
+   ,amount,250
+   ,vip,vip4双倍领取
+   ,Label,当前活跃：
+   ,Huoyue,0
+   ,Label,领取
+OtherPlayerRanking,Label,角色
+   ,Label,宠物
+   ,Label,坐骑
+   ,Lev,Lv.
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,dengji,等级:
+   ,xianmeng,仙盟:
+   ,shaluzhi,杀戮值:
+   ,zhiye,职业:
+   ,gongji,攻击:
+   ,shengmingzhi,生命值:
+   ,shanbi,闪避:
+   ,renxing,韧性:
+   ,xingyun,幸运:
+   ,baoji,暴击:
+   ,mingzhong,命中:
+   ,fangyu,防御:
+   ,Label,资质：       成长：
+   ,Label (1),战力：
+   ,Label (2),级
+   ,Label,当前技能
+   ,Label,[ffc00f]当前属性[ffffff]           属性              成长             精魂
+   ,Label (1),"攻击\n命中\n暴击\n天魂\n地魂\n命魂"
+   ,Label,"速度:\n生命:\n攻击:\n防御:"
+   ,Label,"暴击:\n韧性:\n命中:\n闪避:"
+   ,Label,当前属性
+   ,Label,当前属性
+FriendInformation,Label,邀请
+Player_information,Label,人物
+   ,Label,技能
+   ,Label,外形
+   ,Label,仙羽
+   ,Label,飞升
+   ,Label,转生
+ScoreDes,Label,规则说明 
+   ,Label (1),"1.优先达到10W积分的阵营获胜。（多战场共享总积分）\n2.击败敌方玩家[u]个人[/u]和[u]总积分[/u]+1。\n3.个人伤害每增加10W[u]个人[/u]和[u]总积分[/u]+1。\n4.击败敌方将军[u]本战场[/u]己方玩家个人积分+100，总积分+100。\n5.奖励根据个人积分计算。"
+   ,Label (2),"1.胜利方奖励提升30%。\n2.失败方奖励提升10%。\n\nPS：奖励提升只给予战斗结束时留在战场中\n玩家。"
+   ,Label (3),奖励加成
+   ,Label (2),评分         积分                  奖励
+   ,Label,1000
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,1000
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,1000
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,1000
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,1000
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,1000
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,1000
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+GuildShopItem,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (1),消耗贡献：
+   ,Label (2),限购数量：
+RecordList,Fangru,刚刚                  从仓库里放入了
+   ,Quchu,刚刚                  从仓库里取出
+DownloadBonus,Label,领取奖励
+   ,Label,开始更新
+   ,Label,更新中..
+   ,Label,更新完成
+   ,Label,速度：
+   ,speed (2),（    ） 
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+Autopath,Label (1),[b]传送
+   ,Label,10级或VIP1解锁
+   ,Label (1),20级前免费试用
+Panel_Loading,Label (1),拼命加载中..
+CityShopItem,Quantity_label,999
+   ,Str_label,+99
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,现价：
+   ,Label (2),限购数量：
+Item_Compare,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,等级:
+   ,bang,已绑定
+   ,NO_bang,非绑定
+   ,Label,获得途径：
+   ,Label,1 [u]商城购买
+   ,Label,2 [u]活动获得
+   ,name (1),卖出：
+   ,name (1),不可出售
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,等级:
+   ,bang,已绑定
+   ,NO_bang,非绑定
+   ,Label,获得途径：
+   ,Label,1 [u]商城购买
+   ,Label,2 [u]活动获得
+   ,name,生命：
+   ,num,1500
+   ,name (1),卖出：
+   ,name (1),不可出售
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,等级:
+   ,Label (1),职业：
+   ,Label (2),部位：
+   ,Label,战力：
+   ,change_gs_num,+899969
+   ,Tag,基础属性
+   ,name,攻击：
+   ,num,478-789
+   ,change_num,+899969
+   ,name,攻击：
+   ,num,478-789
+   ,change_num,-899969
+   ,Tag,洗练属性
+   ,name,攻击：
+   ,num,200
+   ,name,攻击：
+   ,num,200
+   ,name,攻击：
+   ,num,200
+   ,name,攻击：
+   ,num,200
+   ,Tag,镶嵌属性
+   ,name,攻击：
+   ,num,200
+   ,gem_name,三级攻击宝石
+   ,name,攻击：
+   ,num,200
+   ,gem_name,三级攻击宝石
+   ,name,攻击：
+   ,num,200
+   ,gem_name,三级攻击宝石
+   ,name,攻击：
+   ,num,200
+   ,gem_name,三级攻击宝石
+   ,name,攻击：
+   ,num,200
+   ,gem_name,三级攻击宝石
+   ,name,攻击：
+   ,num,200
+   ,gem_name,三级攻击宝石
+   ,name,攻击：
+   ,num,200
+   ,gem_name,三级攻击宝石
+   ,name,攻击：
+   ,num,200
+   ,gem_name,三级攻击宝石
+   ,Tag,套装属性
+   ,taozhuang_name,50级紫色攻击套装
+   ,taozhuang_NUM,（1/6）
+   ,position_1,武器
+   ,position_2,武器
+   ,position_3,武器
+   ,position_4,武器
+   ,position_5,武器
+   ,position_6,武器
+   ,3jian,3件
+   ,att_name,攻击
+   ,att_num,+89
+   ,6jian,6件
+   ,att_name,增伤
+   ,att_num,+0.98%
+   ,Label_ex,"[fff143]基础属性[-]\n攻击：487-789     [00ff00]+899969[-]\n攻击：487-789     [00ff00]+899969[-]"
+   ,Label_ex,"[fff143]洗练属性[-]\n攻击：487    攻击：487\n攻击：487    攻击：487"
+   ,Label_ex,"[fff143]洗练属性[-]\n三级攻击宝石    攻击：487\n三级攻击宝石    攻击：487\n三级攻击宝石    攻击：487\n三级攻击宝石    攻击：487\n三级攻击宝石    攻击：487\n三级攻击宝石    攻击：487\n三级攻击宝石    攻击：487\n三级攻击宝石    攻击：487"
+   ,Label_ex,"[fff143]套装属性[-]\n[ffa631]50级紫色攻击套装(1/6)[-]\n[00ff00]武器[-]  武器  [00ff00]武器[-]  武器  武器\n3件  攻击+89\n6件  增伤+0.98%"
+   ,Label_ex,战力：899969
+   ,num,useLvlLabel
+   ,name (1),卖出：
+   ,Label4,装备
+PutawayWnd,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,铜币
+   ,Label,元宝
+   ,Label,数量：
+   ,Label (1),单价：
+   ,Label (2),总价：
+   ,Total,0
+   ,Label,在世界广播
+   ,num,20
+   ,Label,确定
+   ,Label,取消
+   ,des,"成功出售物品后将收取10%所获币种\n的服务费"
+   ,Label,物品上架
+CreatePlayerWnd,inputName,输入名称
+   ,Label,"乾坤借法\r\n逆阴阳、晓生死"
+   ,Label,"剑指天下\r\n身法灵动，飘逸绝杀"
+   ,Label,"神威如狱\r\n冲锋陷阵，勇往直前"
+Copy,Label,次数购买
+   ,Label (1),选择购买数量：
+   ,Label,最大
+   ,Label,需要消耗：
+   ,Label,确定购买
+   ,Label,推荐战力：
+   ,Label,挑战次数：
+   ,Label (1),当前可够买次数：
+   ,Label (2),奖励：
+   ,Title,普通模式
+   ,Lv,[1转44级开启]
+   ,Title,困难模式
+   ,Lv,[1转44级开启]
+   ,Title,地狱模式
+   ,Lv,[1转44级开启]
+   ,Title,普通模式
+   ,Lv,[1转44级开启]
+   ,Label,开启副本
+   ,Label,扫荡
+   ,Label,单人副本
+   ,Label,多人副本
+GuildJoinMemItem,Label,同意
+   ,Label,拒绝
+CopySettlement,Label,通关时间：
+   ,Exp,0
+   ,Label (1),经验：
+   ,Copper,0
+   ,Label (1),绑铜：
+   ,Label,lv:
+   ,Label,确定(  )
+Batch_NUM,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,des,选择放入数量：
+   ,Label,MAX
+   ,Label,确 定
+PlayerWings,des,当前为
+   ,des (2),的终极形态
+   ,des,所有仙羽给予的属性可叠加拥有
+   ,label,悟化获得羽翼条件：
+   ,Label,仙羽悟化
+   ,Label,隐藏神翼
+   ,Label,装备神翼
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,lev (1),级
+   ,label,当前属性                                下级属性
+   ,shuxing_1,攻击：
+   ,shuxing_2,生命：
+   ,Label,仙羽淬炼
+   ,xiaji_des,6级时可获得技能：幻觉毒素
+   ,yaoqiu_1,消耗：
+   ,des,物品不足时自动从商店购买
+PlayerInfo,Label,生命
+   ,Label (1),法力
+   ,Label (2),经验
+   ,dengji,等级：
+   ,gonghui,仙盟：
+   ,zhiye,职业：
+   ,shaluzhi,杀戮值：
+   ,gongji,攻击：
+   ,fangyu,防御：
+   ,mingzhong,命中：
+   ,shanbi,闪避：
+   ,baoji,暴击：
+   ,xingyun,幸运：
+   ,renxing,韧性：
+   ,shaluzhi,杀戮值
+LoadingWnd,LoadingText,Loading......
+   ,LoadingText (1),地图构建中...
+   ,LoadingText (2),人物模型构建中...
+   ,LoadingText (3),技能加载...
+   ,LoadingText (4),特效资源加载中...
+   ,LoadingText (5),正在读取配置文件...
+   ,LoadingText (6),根据机型适配界面...
+   ,LoadingText (7),加载背包信息...
+   ,LoadingText (8),配置错误，重新开始检测。
+Shop,Label,回 购
+   ,Label,杂 货
+   ,Label,装 备
+   ,Label,功 勋
+   ,Label,声 望
+   ,Label,积 分
+   ,Label,真 元
+   ,add,批量出售
+   ,add,取消
+   ,add,确定出售
+Main_ItemTips,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,立刻使用
+   ,title,使用道具
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,MAX
+   ,Label,确定使用
+MagicWeapon,Label_zhuling,注灵：法宝激活
+   ,Label_zhulingweijihuo1,注灵：法宝未激活
+   ,Label_cuilian1,淬炼：法宝激活
+   ,Label_cuilianweijihuo1,淬炼：法宝未激活
+   ,Label,淬炼
+   ,Label,注灵
+   ,Label,法宝预览
+   ,3jie,三阶浏览
+   ,3jie (1),五阶浏览
+   ,3jie (2),七阶浏览
+   ,Label,注灵
+   ,Label,提升
+   ,Labei (2),法宝属性
+   ,Label,法宝技能
+   ,jihuotiaojian,激活条件
+   ,Label,需要消耗道具：
+   ,xiaohaodaoju,[u]诛仙天遁剑
+   ,Label,消耗材料:
+   ,Label,提升
+   ,Label,注灵
+   ,Label,材料不足时使用元宝
+   ,Labei (2),法宝属性
+   ,Label,23
+   ,Label,法宝技能
+   ,Label,佩戴
+   ,Label,卸下
+   ,Label,激活
+ExamineItem,Label,拒绝
+   ,Label,同意
+MultipleCopy,Label,招募好友
+   ,Label,开始副本
+   ,Label,准 备
+   ,Label,离开队伍
+   ,Label,取消准备
+   ,Label,普通
+   ,Label,困难
+   ,Label,地狱
+   ,Label,噩梦
+   ,Label,副本奖励
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,好友列表
+   ,Label (1),      玩家               等级              战力
+   ,Label,邀请
+   ,Label,玩家            职业         等级              战力
+   ,Label,小提示：进入副本后化身会自动战斗，化身不会增加副本掉落
+   ,Label,确定招募
+   ,Label,招募化身
+   ,Label,招募队友
+   ,Label (1),招募(15)
+   ,Label,战斗力：
+   ,Label,副本可入次数：
+   ,Label,等级：
+   ,Label,解散队伍
+   ,Label,请离队伍
+   ,Label,招募化身
+   ,Label,招募队友
+   ,Label (1),招募(15)
+   ,Label,战斗力：
+   ,Label,副本可入次数：
+   ,Label,等级：
+   ,Label,解散队伍
+   ,Label,请离队伍
+   ,Label,招募化身
+   ,Label,招募队友
+   ,Label (1),招募(15)
+   ,Label,战斗力：
+   ,Label,副本可入次数：
+   ,Label,等级：
+   ,Label,解散队伍
+   ,Label,请离队伍
+Achievement,Label,[成就]
+PlayerSoaring,Label,生命：
+   ,Label (1),防御：
+   ,Label (2),暴击：
+   ,Label (3),韧性：
+   ,Label (4),命中：
+   ,Label (5),闪避：
+   ,Label (6),攻击：
+   ,Label,[u]规则说明
+   ,Label,[u]前往修行
+   ,Label,生命：
+   ,Label (1),防御：
+   ,Label (2),暴击：
+   ,Label (3),韧性：
+   ,Label (4),命中：
+   ,Label (5),闪避：
+   ,Label (6),攻击：
+   ,Label,需要消耗：
+   ,Label,提升
+   ,Name (1),[u][url=10]精气[/url]
+   ,Label,需要消耗：
+   ,Label,突破
+   ,Label,需要等级：
+   ,Name,[u][url=11]真气[/url]
+   ,Label,已满级
+Huoqu,Name,[u][url=2400001]初级强化石[/url]
+   ,Num,0/0
+BossDekaron,Label,可击杀
+   ,Label,幽泉地宫
+   ,Label,场景魔王
+   ,Label,封印诡谷
+   ,Label,火云洞
+   ,Label,里·火云洞
+   ,Label,出现地点：
+   ,Label,挑战
+   ,Label,寻路
+   ,Label,上回终结者
+   ,Label,掉落奖励
+   ,timerLabel,下次出现时间还有:
+   ,timerLabel,已出现
+   ,timerLabel,已击杀
+   ,Name,里人儿是是
+PlayerReincarnation,des,1转 -> 2转
+   ,Label,攻击：
+   ,Label (1),防御：
+   ,Label (2),暴击：
+   ,Label (3),韧性：
+   ,Label (4),命中：
+   ,Label (5),闪避：
+   ,Label (6),法力：
+   ,Label (7),生命：
+   ,des,获取神元
+   ,label,激活技能：无
+   ,Label,转生
+   ,xiuwei,1500/2500
+   ,manji,已满级
+   ,Label,需要等级：
+   ,Label,神元
+   ,Label,[u]规则说明
+   ,Label,神元+360
+   ,Label,今日剩余次数：
+   ,EXP (2),消耗经验：
+   ,EXP,5800000
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,num,1
+   ,name,消耗：1个
+   ,Label,神元+100
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,num,1
+   ,name,消耗：1个
+   ,Label,神元+1000
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,技能等级：
+   ,Label (1),消耗法力：
+playerAvatarWind,Label,[b]装备强化套装效果
+   ,next_lev,下一等级套装：
+   ,Suffix,[b]级 
+   ,Quantity_label,99
+   ,Str_label,+99
+   ,Quantity_label,99
+   ,Str_label,+99
+   ,Quantity_label,99
+   ,Str_label,+99
+   ,Quantity_label,99
+   ,Str_label,+99
+   ,Quantity_label,99
+   ,Str_label,+99
+   ,Quantity_label,99
+   ,Str_label,+99
+   ,Quantity_label,99
+   ,Str_label,+99
+   ,Quantity_label,99
+   ,Str_label,+99
+   ,Quantity_label,99
+   ,Str_label,+99
+   ,Quantity_label,99
+   ,Str_label,+99
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,当前杀戮值:
+   ,Lev_1,"关于杀戮值：\n野外地图、主城、火云洞、里火云洞、封印地宫击杀白名，蓝名，紫名玩家可获得杀戮值\n杀戮值可改变角色名称颜色和杀戮状态，同时影响角色物品被爆概率\n击杀黄名以上玩家不积累杀戮值\n杀戮状态：[bd54ff]英雄(紫)[-][3cb3ff]侠士(蓝)[-][ffffff]普通(白)[-][ffff00]恶徒(黄)[-][ff2929]魔头(红)[-]\n保持在线和使用           可降低杀戮值\n绑定的装备和道具不会被爆落"
+   ,Label (1),杀戮状态:
+   ,UILabelOpenUI,[6ef574][u]清心丹
+UILabelOpenUI,UILabelOpenUI,[u]前往锻造
+Main_copy,Label,剩余时间：
+   ,Label,说明
+   ,Label (1),队伍
+   ,Label (2),队伍
+   ,Label,附近的人
+   ,Label,队长
+   ,Label,队长
+   ,Label,请出队伍
+   ,Label,转让队长
+   ,Label,发送消息
+   ,Label,加为好友
+   ,Label,离开队伍
+   ,Label,发送消息
+   ,Label,加为好友
+   ,Label,离开队伍
+   ,Label,查看信息
+   ,Label,私聊
+   ,Label,组队
+   ,Label,加为好友
+   ,Label,交易
+   ,Label,邮件
+   ,TitleName,夫妻副本
+   ,Label,夫妻密语由夫妻两人共同收集，规定时间内未集齐诗句，副本失败。
+   ,time,副本计时：
+   ,timer,11：30
+   ,des,"杀死一个怪物，将有可能获得以下诗句中任意一字,集齐诗句可获得[FF2929]姻缘红线[-]\n"
+   ,MIYU1,[FF2929]身[-][FFFC00]无彩凤[-][FF2929]双飞翼[-] 
+   ,MIYU2,[FFFC00]心有灵犀一点通[-]
+   ,Zhangjie,第 2 章第 3 关
+   ,Label,当前场景剩余怪兽：
+   ,monsterNum,20
+   ,timer,12：1：30
+   ,labei,章节:
+   ,labei,副本计时
+   ,Label,"当前波数：\n副本计时：\n生命："
+   ,Wave,11/20
+   ,Timer,8:21
+   ,Life,189000/189000
+   ,Label (1),召唤帮手：
+   ,Label_xinshou,1波
+   ,Label_xinshou,3波
+   ,Label_xinshou,5波
+   ,Label,5波
+   ,Label (1),10波
+   ,Label (2),15波
+   ,Label,"副本计时：\n副本复活："
+   ,Time,4：20
+   ,waveNum,0/5
+   ,relive,4：20
+   ,Label,副本计时：
+   ,Time,4：20
+   ,Label (1),被烤熟倒计时：
+   ,Label (2),"成功拯救灵兽将额外获\n得丰富的奖励"
+   ,Countdown,24：20:33
+   ,1Name,丁丁
+   ,EvenCut,5
+   ,Label,00
+   ,Label,副本计时：
+   ,Time,17:56:32
+   ,Label (2),怪物数量：
+   ,Num,0/240
+   ,Label (1),最大连斩数：
+   ,ComboNumberMax,20
+   ,Label,当前层数：
+   ,layerNum,0/240
+   ,Label (2),副本计时：
+   ,Time,7:56
+   ,Label (1),当前场景剩余怪物：
+   ,RemainingMonster,20
+   ,Label,"本层消耗时间为        秒\n获得总积分为  "
+   ,ClearanceTime,333
+   ,Integral,333
+   ,Label (1),秒后自动传送到下一层
+   ,Time,3
+   ,Label,"[FFFC00]当前层数：[-]\n\n副本计时：\n\n本次复活次数："
+   ,Time,7:56
+   ,layerNum,0/240
+   ,alive,3/3
+   ,Weihuoqu,本层奖励未获取
+   ,Yihuoqu,本层奖励已获取
+   ,Label,当前层数：
+   ,layerNum,2/7
+   ,Label,你已经达到了晋升下一层的要求
+   ,Label (1),秒后自动传送到下一层
+   ,Time,3
+   ,Label (1),"升级条件:        \n[FF2929]降级条件:死亡           次[-]\n杀死一个怪物 +1分\n杀死一个玩家 +1分"
+   ,upLev,200
+   ,downLv,0/3
+   ,Label,"副本计时：\n\n副本复活：\n\n\n\n当前场景剩余怪物"
+   ,Time,14：58
+   ,resurrection,0/0
+   ,MNum,1
+   ,Label (1),退出
+   ,TitleName,夫妻副本
+   ,Label,已交付人参果：
+   ,Label,白色人参果：
+   ,Num,0/40
+   ,Label (1),绿色人参果：
+   ,Num,0
+   ,Label (2),蓝色人参果：
+   ,Num (1),0
+   ,Label (3),紫色人参果：
+   ,Num (2),0
+   ,Label,[u]镇元子
+   ,Label,[u]规则
+   ,Label (4),剩余时间：
+   ,time,22：33
+   ,Label,退出副本
+   ,Time,(30)
+   ,Label,白色人参果：
+   ,Num,0/40
+   ,Label (1),绿色人参果：
+   ,Num,0
+   ,Label (2),蓝色人参果：
+   ,Num (1),0
+   ,Label (3),紫色人参果：
+   ,Num (2),0
+   ,Label (1),获得：
+   ,Label,退出副本
+   ,Label,副本结算剩余时间：
+RingTask,Label,一键完成
+   ,Vip,VIP4可使用
+   ,Label,"将15环任务提升至5星\n并全部双倍立刻完成"
+   ,Label (1),消耗
+   ,goldCost,180
+   ,finishTaskNum,0/15
+   ,Label,环额外奖励
+   ,Label (1),15
+   ,UILabel ,已完成环数：
+   ,Label,任务目标
+   ,Label (1),任务奖励
+   ,exp,123444
+   ,Label,EXP
+   ,Label,奖励星级
+   ,Label,刷新星级
+   ,Label (1),刷新费用
+   ,refreshCost,0
+   ,Label,接受任务
+   ,Label,完成任务
+   ,Label,双倍领取
+   ,labCost,花费10元宝
+Single_Congwu,Zhanli,战力:
+GuildMainWnd,Label (1),仙盟信息
+   ,Label (2),"名字：\n盟主：\n仙盟成员：\n仙盟排名："
+   ,Label,仙盟招募
+   ,Label,扩充成员
+   ,Label,修改宗旨
+   ,Label (3),仙盟宗旨
+   ,Label,点击输入仙盟宗旨
+   ,Label,其他仙盟
+   ,Label,退出仙盟
+   ,Label,仙盟大厅
+   ,Label,仙盟成员
+   ,Label,仙盟日志
+   ,Label,仙盟战
+   ,Label,申请审核
+   ,Label,[u]仙盟介绍
+   ,Label,仙盟俸禄
+   ,Label,仙盟商店
+   ,Label,仙盟捐献
+   ,Label,仙盟技能
+   ,Label,仙盟仓库
+   ,Label,仙域守护
+   ,Label,仙盟运镖
+   ,Label (1),"16:00~16:30\n开启可进入"
+   ,Label,仙盟城战
+   ,Label,名称            等级           贡献/总贡献          战斗力         状态         操作
+   ,Label,降低职位
+   ,Label,查看资料
+   ,Label,请离仙盟
+   ,Label,加为好友
+   ,Label,转让盟主
+   ,Label,提升职位
+   ,Label,          事件                                                             时间  
+   ,Label,名称                 等级            战斗力             状态            操作
+   ,Label,一键接收
+   ,Label,忽略本页
+   ,Label,自动接收
+   ,Yikaiqi,已开启
+   ,Yiguanbi,已关闭
+   ,Label,自动接收
+   ,Label,战力以上的玩家，申请
+   ,Label (1),仙盟后会被自动接收。
+   ,Label (2),提示：仙盟成员达到上限后，会自动转换为关闭功能
+   ,Label,仙盟捐献
+   ,Label,捐献说明：
+   ,Label,"1.捐献100铜币，增加仙盟经验与个人贡献个1点，每日最大可捐献100000绑铜币。\n\n2.捐献1元宝，增加仙盟经验与个人捐献各10点，每日最大可捐献100元宝。"
+   ,Label,捐献：
+   ,Label,捐献
+   ,Label (2),剩余3次
+   ,Label,捐献：
+   ,Label,捐献
+   ,Label (2),剩余3次
+   ,Label,发送捐献消息到仙盟聊天
+   ,Label,寻 路
+   ,Label,规则说明
+   ,Label,活动时间
+   ,Time,16:00-16:30
+   ,Label,名次                     仙盟                     积分 
+   ,Label,仙盟战
+   ,Label (1),"活动开启：\n\n参与条件：\n\n活动玩法："
+   ,Label (2),周二、周四、周六21：00--22：00
+   ,Label (3),，仙域争霸开启
+   ,Label (4),"开启日19：00仙盟战力在排行榜前九位\n\n"
+   ,Label (5),"获得资格玩家可在活动时间内进入九天仙域战场，每个战场3个\n混战，最终根据战场中获得的仙盟资源排名，决出胜者"
+   ,Label,仙域争霸
+   ,Label,扩充成员说明：
+   ,Label (1),1.升级仙盟可以提升成员上限，消耗道具[00FF00]聚义旗[-]可以更快的提升成员上限。
+   ,Label (3),2.仙盟人数越多，在仙盟活动中优势越大。
+   ,Label,扩充成员
+   ,Label (1),已达上限
+   ,Label (2),你们的仙盟已经广纳人才，仙友灿灿，无法再进行扩充了。
+   ,Label (3),消耗物品：
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label (4),x
+   ,Num,33333
+   ,Label,扩 充
+   ,Label,物品不足时自动使用元宝
+   ,Label,扩充次数
+   ,Label,扩充次数
+   ,Label (1),当前：
+   ,Label (2),人
+   ,Label (1),扩充后：
+   ,Label (2),人
+ShopItem,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+OtherPlayer,Label,角色
+   ,Label,宠物
+   ,Label,坐骑
+   ,Lev,Lv.
+   ,Title,称号
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,dengji,等级:
+   ,xianmeng,仙盟:
+   ,shaluzhi,杀戮值:
+   ,zhiye,职业:
+   ,gongji,攻击:
+   ,shengmingzhi,生命值:
+   ,shanbi,闪避:
+   ,renxing,韧性:
+   ,xingyun,幸运:
+   ,baoji,暴击:
+   ,mingzhong,命中:
+   ,fangyu,防御:
+   ,Label,资质：       成长：
+   ,Label (1),战力：
+   ,Label (2),级
+   ,Label,当前技能
+   ,Label,[ffc00f]当前属性[ffffff]           属性              成长              精魂
+   ,Label (1),"攻击\n命中\n暴击\n天魂\n地魂\n命魂"
+   ,Label,"速度:\n生命:\n攻击:\n防御:"
+   ,Label,"暴击:\n韧性:\n命中:\n闪避:"
+   ,Label,当前属性
+   ,Label,当前属性
+BuyWindow,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,购  买
+   ,Label,购买单价：
+   ,Label (1),选择购买数量:
+   ,Label,增加10个
+   ,Label,需要消耗：
+   ,Label,确定购买
+TreasureHouse,Label,藏宝库优先使用宝库钥匙
+   ,Label,宝藏预览
+   ,Label,临时仓库
+   ,Label,买1份
+   ,Num,20
+   ,Label (1),赠送5000绑铜
+   ,Num (1),1
+   ,Label,或
+   ,Label,买10份
+   ,Num,188
+   ,Label (1),赠送50000绑铜
+   ,Num (1),10
+   ,Label,或
+   ,Label,买50份
+   ,Num,888
+   ,Label (1),赠送250000绑铜
+   ,Num (1),50
+   ,Label,或
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label1,抽到
+   ,Label1 (1),抽到
+   ,Label1 (2),抽到
+   ,Label1 (3),抽到
+   ,Label1 (4),抽到
+   ,Label1 (5),抽到
+   ,Label,20
+   ,Label,300000
+   ,Label,宝藏预览
+   ,Label,20级
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,add,整理
+   ,add,一键取出
+   ,Label,临时仓库
+   ,Label (1),我的背包
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,Label,奖励
+   ,Label,抽取1次    
+   ,NumLabel,20
+   ,Label,抽取10次
+   ,NumLabel,888
+   ,Label,抽取50次    
+   ,NumLabel,888
+   ,Label,3000000000
+   ,Label,3000000000
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,X
+   ,Num,3333
+Batch_Use,title,使用道具
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,MAX
+   ,Label,确定使用
+EndlessTrials,Label,扫荡
+   ,Label,星
+   ,Label,星
+   ,Label,星
+   ,Label,星
+   ,Label,当前星数：
+   ,Label,领取
+   ,Label,星奖励
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,进入
+   ,Zhanli,推荐战力：
+   ,Jilu,个人记录：
+   ,Shuoming,三星通关可以扫荡
+   ,Label,"通关\n奖励:"
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,"首次通关\n额外奖励:"
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Title,第一章  初入江湖
+Flop,Label,点击翻牌
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,离开(    )
+   ,Label,下一关
+   ,Label,再打一次
+GuildBonfireListItem,Label,进 入
+Main_GuildActivity,Label,个人积分排行
+   ,Label,排名      名称      伤害
+   ,Label,剩余时间：
+   ,Label (1),仙盟            积分
+   ,Label (1),积分排行
+   ,Biaoti,火焰山战场
+   ,Label,排名      姓名       积分  
+   ,paiming,1
+   ,Jifen,222
+   ,Pinfen,SSS
+   ,Label,[u]战斗评分>>
+   ,Label,副本结算剩余时间：
+   ,Label,作战倒计时:
+   ,Label (1),处于地图中央区域则可以获得积分，击败其他仙盟成员可获得积分，总积分高的仙盟获胜。
+   ,Label,"守护倒计时：\n当前怪物波数：\n闯入怪物数量：\n难度："
+   ,Label (1),"（闯入怪物数量超过\n  100时守护失败）"
+   ,pindao,频道：
+   ,pindaoNum,3
+   ,Label (1),战场时间：
+   ,timeNum,12:22
+   ,Label,回城
+   ,CD,300
+   ,Num,30000
+   ,Name,仙界
+   ,Label,交战中
+   ,Label,交战中
+   ,Label,复活：
+   ,time,300
+   ,Label,交战中
+   ,Label,复活：
+   ,time,300
+   ,Num,30000
+   ,Name,妖界
+   ,Label,交战中
+   ,Label,交战中
+   ,Label,复活：
+   ,time,300
+   ,Label,交战中
+   ,Label,复活：
+   ,time,300
+Main_Map,Time,00:09:49
+   ,Label,[b]数据统计
+   ,Label,[b]退出副本
+   ,Label,首充大礼
+   ,Label,理财周卡
+   ,Label,玩法
+   ,Label,无尽试练
+   ,Label,副 本
+   ,Label,活 动
+   ,Label,竞技场
+   ,Label,镇魔塔
+   ,Label,奖励
+   ,Label,下载奖励
+   ,Label,在线奖励
+   ,Time,00:09:49
+   ,Label,签到
+   ,Label,等级奖励
+   ,Label,七天奖励
+   ,Label,福利
+   ,Label,修 行
+   ,Label,铸魂
+   ,Label,藏宝库
+   ,Label,商城商店
+   ,Label,商店
+   ,Label,集市
+   ,Label,商城
+   ,Label,仙盟商店
+   ,Label,城内商店
+   ,Label,挑战
+   ,Label,每日必做
+   ,Label,宝箱
+   ,TIME ,00:00:59
+   ,Label,优惠大礼
+   ,Label,精彩活动
+   ,Label,节日活动
+   ,Label,开服活动
+   ,Label,合服活动
+   ,Label,开服贺礼
+   ,Label,活动名称
+   ,TIME,00:00:59
+   ,Label (2),[b]活动名称
+   ,Label (3),[b]活动名称
+   ,Label (4),[b]活动名称
+Activity,Label,参与条件：
+   ,Jinxingzhong,进行中..
+   ,Weikaishi,未开始
+   ,Yijieshu,已结束
+   ,Label (1),活动时间：
+   ,Label (2),参与次数：
+   ,Label (6),无限
+   ,Label,前往参加
+   ,Label,排行榜
+   ,Label,活动奖励
+   ,Label (1),活动说明
+GuildStorageWnd,Label,申请列表
+   ,Label,记录
+   ,Label,    名称              等级               总贡献              申请物品            操作
+   ,Label (1),仙盟仓库
+   ,add,整理
+   ,add,查看申请
+   ,add,[u]规则说明
+   ,Label (2),我的背包
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+GuildMemberItem,Label,管理
+Main_Time,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,Label,领 取
+Button_Des,Label,[u]规则说明
+OpenService,Label,活动剩余时间：
+   ,Label (1),当前拥有
+   ,Label,充值
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,label,限购数：
+   ,Label,购买
+BagItemUI,Label,12
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+Practice,Label,[u]规则说明
+   ,Label,[u]前往飞升
+   ,Label,精气：
+   ,Label (1),35000000
+   ,Label,真气：
+   ,Label,真气兑换
+   ,Label,铜币运功
+   ,Label (1),次数：
+   ,Label,元宝运功
+   ,Label,十连运功
+   ,Label,收 功
+   ,Label,高人指点
+   ,Label,仙人指点
+   ,Label,1
+   ,Label,1
+   ,Label,1
+   ,Label,1
+   ,Label,1
+   ,Label,1
+   ,Label,1
+   ,Label,1
+   ,Label,1
+   ,Label,1
+   ,Label,兑换
+   ,Label,精气：
+   ,Label,真气：
+   ,Label,兑换比例：
+   ,Label (1),5=        1
+   ,Label,兑换数量
+   ,Label,精气：
+   ,Label,真气
+   ,Label,1
+   ,Label,消耗
+LittleHelperItem,Label,推荐度:
+   ,Label,前往参与
+TrialTask,Label (1),完成奖励
+   ,exp,75555555
+   ,Label (2),EXP
+   ,copper,75555555
+   ,Label,领  取
+   ,Label,接受任务
+   ,Label,快速完成
+   ,Label,放弃任务
+   ,Label (1),完成奖励
+   ,exp,75555555
+   ,Label (2),EXP
+   ,copper,75555555
+   ,Label,领  取
+   ,Label,接受任务
+   ,Label,快速完成
+   ,Label,放弃任务
+   ,Label (1),完成奖励
+   ,exp,75555555
+   ,Label (2),EXP
+   ,copper,75555555
+   ,Label,领  取
+   ,Label,接受任务
+   ,Label,快速完成
+   ,Label,放弃任务
+   ,Label,"试炼规则\n1.试炼任务分为初级，中级，高级三种难度，任务难度越高奖励越丰厚\n2.每日可累积完成15次试练任务，升级VIP可增加接取任务次数\n3.可同时接取三个任务，放弃任务不计入完成次数"
+   ,Label,一键完成高级试炼
+   ,rewardNum,16
+   ,Label,今日领取奖励次数：  （0点重置领取次数）
+Mall,Label,限购
+   ,Label,变强
+   ,Label,灵兽
+   ,Label,日常
+   ,Label,时装
+   ,Label,真元
+   ,Label,购买
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,充值
+LoginWnd,Label,请输入您的手机号或者邮箱号
+   ,usrname,[b]账号
+   ,Label,请输入六位数密码
+   ,psw,[b]密码
+   ,Label,局域网专用
+   ,Ip,[b]Ip
+   ,Label,局域网专用
+   ,psw,[b]port
+   ,timer,5
+   ,Label,公告
+   ,Label,测试选服
+   ,Label,"抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。\r\n适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。"
+   ,Label (1),程序版本号：
+   ,versionNumber,1.0.02
+   ,Label,点击换区
+   ,WhichServer,256服
+   ,ServerName,凯恩血蹄
+   ,Label,我的服务器
+   ,Label,公告
+   ,des,抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防上当受骗。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。
+GuildSkill,Label,个人贡献：
+   ,Label,当前等级：
+   ,Label,下一等级：
+   ,Label,学习需求
+   ,Label (1),仙盟等级：
+   ,Label (2),仙盟贡献：
+   ,Label,[u]技能规则
+Decomposition,Label,背包
+   ,Label,点击物品放入分解
+   ,add (1),分解后获得:
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,add,一键放入
+   ,add,分解
+   ,add,"点击\n预览"
+   ,Label,[u]规则说明
+   ,Label,[u]前往锻造
+   ,prefabLabel,"装备分解：\n1.保底获得绑定铜钱。\n2.可获得强化石、升阶石或祝福油，紫色装备和30级橙色装备有几率获得炼晶石，40级以上橙色装备必定获得炼晶石。"
+   ,decomposelabel,"装备分解：\n"
+NewSkill,Label,新技能激活！
+   ,SkillText (1),(神龙，我的希望就是 。。！)
+   ,Label,确 定
+Map,Label,当前地图
+   ,Label,世界地图
+   ,Label (1),[b]传送
+   ,Label (1),NPC
+   ,Label (3),怪物
+   ,Label (4),传送门
+   ,name,万象谷
+   ,Label,步行
+   ,Label,传送
+Model_show,Label (1),仙羽属性
+   ,Label,点击任意继续…
+   ,biaoti,[b]蓝光巨翼
+   ,label,[b]恭喜获得：
+ResurrectionUI,Label,复 活
+   ,Label,小贴士：道具不足时可用元宝代替
+   ,Label,[u]我要变强
+   ,Label,您失手被怪物打死！   秒后自动复活
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,tianLei,"你的戮气太重,上天已无法忍受,故赐你一死!  秒后自动复活"
+   ,Label,您被玩家                  击败了掉落物品：
+   ,Label,安全复活（   秒）
+   ,Label,x
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,免费原地复活
+   ,Label (2),秒后自动复活
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,立刻复活
+   ,Label (1),您被怪物杀死了，   秒后自动复活
+   ,Label,（自动扣除1次副本复活次数）
+   ,Label, 秒后自动复活
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,tianLei,"你的戮气太重,上天已无法忍受,故赐你一死! "
+NPC_dialog_gonghuiyunbiao,content,"我们一起来做笔买卖吧！\r"
+   ,Label,我要运镖
+   ,Label,纯属路过
+NPC_dialog_mobai,Label,滔滔江水般的敬仰
+   ,Label,无视
+NewRewardPreview,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,Label,领 取
+AchievementListItem,Label,"成就：\n奖励："
+   ,Label (1),称号：
+   ,Label,领   取
+   ,Label,未完成
+   ,Label,已领取
+Weekcard,Label,热销中...
+   ,Label,[FFFC00]每次可领取[00F4FF]10[-]元宝，[00F4FF]388[-]礼金
+   ,Label,每日累计充值300元宝可激活
+   ,Label,今日累计充值：
+   ,Label,0/3000
+   ,Label,充值
+   ,Label,领取
+   ,Label,已领取
+   ,Label,[FFFC00]每次可领取[00F4FF]50[-]元宝，[00F4FF]888[-]礼金
+   ,Label,热销中...
+   ,Label (1),每日累计充值1000元宝可激活
+   ,Label (1),今日累计充值：
+   ,Label (1),0/3000
+   ,Label,充值
+   ,Label,领取
+   ,Label,已领取
+   ,guize,理财周卡规则
+   ,Label,"1.当日累计充值达到300元宝，1000元宝可分别激活特惠周卡和至尊周卡，每种卡每日可激活一次，次日累计充值达到相应额度依然可激活周卡效果\n2.理财卡激活后可增加七次领取对应周卡奖励的次数，不同日期累计充值激活的领取次数可累加\n3.每种卡的奖励每日可领取一次，次日0点后可再次领取\n"
+Arena,Label,战力：
+   ,Label,挑战
+   ,Label,查看信息
+   ,Label,私聊
+   ,Label,加为好友
+   ,Label,发送邮件
+   ,Label,战力：
+   ,Label,挑战
+   ,Label,查看信息
+   ,Label,私聊
+   ,Label,加为好友
+   ,Label,发送邮件
+   ,Label,战力：
+   ,Label,挑战
+   ,Label,查看信息
+   ,Label,私聊
+   ,Label,加为好友
+   ,Label,发送邮件
+   ,Label,战力：
+   ,Label,挑战
+   ,Label,查看信息
+   ,Label,私聊
+   ,Label,加为好友
+   ,Label,发送邮件
+   ,Label,"我的排名：                     挑战冷却：\n\n我的战力：                     挑战次数："
+   ,Label,名次奖励倒计时：
+   ,Name (1),[u][url=5]绑铜[/url]
+   ,Name,[u][url=7]阅历[/url]
+   ,Label,领取
+   ,Label (1),获取：
+   ,Label,确定( )
+   ,Name (2),[u][url=5]绑铜[/url]
+   ,Name (1),[u][url=7]阅历[/url]
+   ,Label,[u]规则简介
+ReturnExitWnd,Label,退出游戏
+   ,Label,继续等待
+   ,Label,确 定
+   ,Title,[b]提示
+   ,Label_msg,"资源拷贝超时,请检查磁盘空间是否足够!请清理一部分不需要的文件,重新启动游戏!\n"
+Storage,Label,"VIP1\nVIP3\nVIP6"
+   ,add,整理
+   ,Label (2),"可使用随身仓库\r\n可使用第三页仓库\r\n可使用第四页仓库\r"
+   ,Label,我的仓库
+   ,Label (1),我的背包
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+SevenDays,Label,登录天数                       奖励                        vip额外奖励          备注
+   ,Label,快速充值
+   ,Label,成为VIP
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,已领
+   ,Label,普通领取
+   ,Label,Vip领取
+DecomposeItem,Occupation,点击放入
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+MyMarketItem,Label,取回
+   ,Label,单价
+   ,Label (1),总价
+   ,Label,续期
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+ChuangSong_pop,Label,不再提示
+   ,Label,确定传送
+   ,Label,成为VIP
+   ,Label_msg,"将使用10真元进行传送\n成为VIP后可免费传送"
+Ranking,Label,排行榜
+   ,Label,成就
+BackpackWnd,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,add,整理
+Baoxiang,Label,"1.击败怪物都可能掉落宝箱，击败魔王掉落概率更高！\n2.越早加速开启宝箱奖励越丰厚"
+   ,Label,空位
+   ,Label,小时
+   ,shijian,24
+   ,time,23:20:20
+   ,Label,加速开启
+   ,Num,x 300
+   ,Label,奖励*
+   ,Beishu,2
+   ,Label,立刻领取
+   ,Label,开启宝箱
+   ,Label,领取奖励
+   ,Label,空位
+   ,Label,小时
+   ,shijian,24
+   ,time,23:20:20
+   ,Label,加速开启
+   ,Num,x 300
+   ,Label,奖励*
+   ,Beishu,2
+   ,Label,立刻领取
+   ,Label,开启宝箱
+   ,Label,领取奖励
+   ,Label,空位
+   ,Label,小时
+   ,shijian,24
+   ,time,23:20:20
+   ,Label,加速开启
+   ,Num,x 300
+   ,Label,奖励*
+   ,Beishu,2
+   ,Label,立刻领取
+   ,Label,开启宝箱
+   ,Label,领取奖励
+   ,Label,空位
+   ,Label,小时
+   ,shijian,24
+   ,time,23:20:20
+   ,Label,加速开启
+   ,Num,x 300
+   ,Label,奖励*
+   ,Beishu,2
+   ,Label,立刻领取
+   ,Label,开启宝箱
+   ,Label,领取奖励
+   ,Label,赠送金箱
+   ,Name,VIP2开启
+   ,Label,成为vip2
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,9
+   ,label,交易中
+   ,Label,确定
+   ,Label,今日加速次数：
+   ,Label (1),10
+Activitysettlement,Label,退出副本（  ）
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label,活动获得：
+Welfare,Label,每日签到
+   ,Label,礼包领取
+   ,Label,礼包列表
+   ,Label (1),礼包中的物品：
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label (2),前往专区领取礼包激活码
+   ,Label (3),输入激活码领取相应礼包
+   ,Label,领取礼包
+   ,Label,已领取
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Day,第一天
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Day,第一天
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Day,第一天
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Day,第一天
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Day,第一天
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Day,第一天
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Day,第一天
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Day,第一天
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Day,第一天
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Day,第一天
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Day,第一天
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Day,第一天
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Day,第一天
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Day,第一天
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Day,第一天
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Day,第一天
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Day,第一天
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Day,第一天
+   ,Label,立即充值
+   ,Label,继续领取
+NPC_dialog_jieyi,Label,确定
+   ,Label,取消
+   ,content,请与你的结义对象组队来此！
+SetUp,Label,性能设置
+   ,Label,小助手
+   ,Label,游戏公告
+   ,Label,挂机设置
+   ,Label,语音设置
+   ,Label,声音震动
+   ,Label,音乐音量
+   ,Label,音乐
+   ,Label,音效音量
+   ,Label,音效
+   ,Label,游戏表现
+   ,Label,智能模式(根据性能自动对游戏内的显示进行设置)
+   ,Label,流畅模式
+   ,Label,设置
+   ,Label,屏蔽其它玩家的仙羽
+   ,Label,屏蔽所有玩家
+   ,Label,屏蔽掉落道具名称
+   ,Label,屏蔽其它玩家的技能特效
+   ,Label,同屏玩家数量(5个)
+   ,Label,屏蔽怪物名称
+   ,Label,屏蔽其它玩家的宠物
+   ,Label,同屏玩家数量(10个)
+   ,Label,屏蔽自身效果
+   ,Label,屏蔽其它玩家的称号
+   ,Label,同屏玩家数量(20个)
+   ,Label,显示低纹理地图
+   ,Label,屏蔽其它玩家法宝
+   ,Label,仅显示可攻击对象（仅活动场景中生效）
+   ,Label,屏蔽其它玩家强化功能特效
+   ,Label,开启即时阴影
+   ,Label,我要变强
+   ,Label,我要经验
+   ,Label,我要铜钱
+   ,Label,我要灵兽
+   ,Label,我要活动
+   ,Label,游戏公告
+   ,Label,领取
+   ,Label,已领取
+   ,Label (1),游戏公告
+   ,Label,自动吃药设置
+   ,Label (1),当角色生命值低于      [6EF574]%[ffffff]时，使用物品恢复
+   ,Label (2),当角色法力值低于      [6EF574]%[ffffff]时，使用物品恢复
+   ,Label,自动使用药品恢复
+   ,Label,药品从小到大使用
+   ,Label,药品从大到小使用
+   ,Label,药品不足自动购买
+   ,Label (1),[VIP1]可使用
+   ,Label (1),战斗相关设置
+   ,Label,角色死亡自动使用
+   ,Label (1),[道具复活]
+   ,Label,野外挂机自动避开
+   ,Label (2),BOSS
+   ,Label (1),自动传送设置
+   ,Label,"血量低于      [6EF574FF]%[ffffff]时自动使用回城卷轴传送\n至长安城"
+   ,Label (2),（卷轴可在          购买）
+   ,Label,[u]商店
+   ,Label,血量低于     [6EF574FF]%[ffffff]时自动使用随机传送卷轴
+   ,Label (2),（卷轴可在          购买）
+   ,Label,[u]商店
+   ,Label,自动拾取的装备
+   ,Label,白色及以上
+   ,Label,绿色及以上
+   ,Label,蓝色及以上
+   ,Label,紫色及以上
+   ,Label,开始挂机
+   ,Label,[u]<注销帐号>
+   ,Label,选择需要自动播放的语音频道
+   ,Label,世界频道
+   ,Label,仙盟频道
+   ,Label,队伍频道
+   ,Label,私聊频道
+Backpack,Label,背包
+   ,Label,合成
+   ,Label,分解
+   ,Label,仓库
+   ,Label,封印
+GetItemTips,Label,获得物品
+   ,Label,确 定
+Matching,Label,你匹配到对手
+   ,Label,确认时间：       秒
+   ,Label,替身出战
+   ,Label,亲自出战
+   ,Label,"不再询问\n替身出战"
+   ,Label,武道会
+PlayerSkill,Label (2),主动技能
+   ,Label (2),被动技能
+   ,Label (1),技能设置
+   ,lv,技能等级：
+   ,cloth,已学习
+   ,Label (1),当前效果：
+   ,Label (2),消耗法力：
+   ,Label (3),冷却：    秒
+   ,Label (3),下级效果：
+   ,Label,升级技能
+   ,Label,[u]无尽试炼
+   ,des,悟性可在              获得
+   ,Label (4),升级等级：
+   ,Label (5),需要消耗：
+   ,Name (1),[u][url=5]绑铜[/url]
+   ,Name,[u][url=7]阅历[/url]
+Dart,Label,免费使用
+   ,Label,青铜镖车
+   ,Label (1),耐久度：
+   ,num,300
+   ,Label,20000绑铜购买使用
+   ,Label,白银镖车
+   ,Label (1),耐久度：
+   ,num,400
+   ,Label,50元宝购买使用
+   ,Label,黄金镖车
+   ,Label (1),耐久度：
+   ,num,600
+   ,Label,奖励
+   ,Label,开启运镖
+   ,Label (1),剩余运镖次数：  次
+   ,Label,护送奖励
+   ,Label,"护送失败可获得一定补偿奖励\n对他人镖车实施最后一击可获得奖励"
+   ,Label,青铜镖车：绑铜25000，真元250
+   ,Label (1),白银镖车：绑铜50000，真元500
+   ,Label (2),黄金镖车：绑铜200000，真元1000
+   ,Label,运镖成功根据镖车品质获得奖励
+   ,Label,请选择一种镖车
+   ,Label,免费使用
+   ,Label,青铜镖车
+   ,Label (1),耐久度：
+   ,num,4500000
+   ,Label,1000绑铜购买使用
+   ,Label,白银镖车
+   ,Label (1),耐久度：
+   ,num,7200000
+   ,Label,10元宝购买使用
+   ,Label,黄金镖车
+   ,Label (1),耐久度：
+   ,num,9900000
+   ,Label,开启运镖
+   ,Label (1),剩余运镖次数：   次
+   ,Label,"注：仅盟主与副盟主可开启运镖\r\n运镖成功根据镖车品质获得对应积分"
+SweepReward,Label, 确定
+   ,Label,继续扫荡
+   ,Label,扫荡获得该物品:
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Quantity_label,999
+   ,Str_label,+99
+   ,nameLabel,物品名字
+   ,Label,可开启
+   ,Label (1),开启中
+   ,Label_exp,10000
+   ,Label_exp,10000
+   ,Label_exp,10000
